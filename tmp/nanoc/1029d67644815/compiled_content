@@ -1,4 +1,5 @@
-{:	data{	o:Nanoc::Identifier:
+{:	data{
+o:Nanoc::Identifier:
 @type:	full:@stringI"/stylesheet.css:ET{:default{	:	lastU:Nanoc::Int::TextualContent[I"&C:/st/path/content/stylesheet.css;
 TI"�* {
   margin: 0;
@@ -32,7 +33,7 @@ a:hover {
   top: 40px;
   left: 280px;
 
-  width: 700px;
+  width: 600px;
 }
 
 #main h1 {
@@ -104,9 +105,9 @@ a:hover {
   line-height: 20px;
 }
 ;
-T:raw@:_0@:pre@o;;;;	I"/test.md;
+T:raw@:_0@:pre@o;;;;	I"/index.md;
 T{;{
-;U;[0I"8<!DOCTYPE HTML>
+;U;[0I":<!DOCTYPE HTML>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -115,28 +116,1835 @@ T{;{
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="Nanoc 4.9.3">
+
+    
   </head>
   <body>
     <div id="main">
-      <p>Row row ro your boat, gently down the stream,</p>
+      <h1 id="the-path-to-joy">The Path to Joy</h1>
 
-<p>Merrily merrily merrily,</p>
+<p><strong>Articles</strong></p>
 
-<p>Life is but a dream</p>
+<p><a href="/Gift-of-suffering"><em>The Gift of Suffering</em></a></p>
 
-<p>There was once a prince who dreamed he was a beggar. He was starving in the sun, no one’d to feed.</p>
+<p>We normally try to avoid suffering, pain, humiliation and feeling low, so much so that there is a whole “Happiness” industry that tries to tell us that all our problems are because we aren’t happy enough.</p>
 
-<p>There was once a beggar who dreamed he was a prince.</p>
+<p>BUT</p>
 
-<p>What I am writing for? Who am I writing for? Who is my reader? Do I even need to type this? Or anything?</p>
+<p>Is happiness really good for us? Or do we need a <a href="/Gift-of-suffering">itsy bitsy little suffering?</a></p>
 
-<p>If there is nothing to do, does that mean I can sit in front of /internet, pants down, Teacher?</p>
+<hr />
 
-<p>Teacher: If you want to, yes! Especially if it makes you feel good. Close the door though, you don’t want your wife to see.</p>
+<p><a href="money-spiritual-life">Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?</a></p>
 
-<p>Me: Hey! Seriously.</p>
+<p>Spiritual types think money is evil, it’s all about the <em>Luuhhvvvvvv</em>. But this twisted thinking actually stops them from growing spiritually.</p>
 
-<p>Teacher: There is nothing to do, nowhere to go. That is correct.</p>
+<p><a href="/world-dream">Is the World Just a Dream or Illusion? So Can I drink beer and watch TV?</a> The question you have <strong>always</strong> wanted to ask, but were afraid to…</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Documentation</h2>
+      <ul>
+        <li><a href="http://nanoc.ws/doc/">Documentation</a></li>
+        <li><a href="http://nanoc.ws/doc/tutorial/">Tutorial</a></li>
+      </ul>
+      <h2>Community</h2>
+      <ul>
+        <li><a href="http://groups.google.com/group/nanoc/">Discussion group</a></li>
+        <li><a href="https://gitter.im/nanoc/nanoc">Gitter channel</a></li>
+        <li><a href="http://nanoc.ws/contributing/">Contributing</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;
+T;U;[I" C:/st/path/content/index.md;
+TI".# The Path to Joy
+
+
+
+**Articles**
+
+
+
+[*The Gift of Suffering*](/Gift-of-suffering) 
+
+We normally try to avoid suffering, pain, humiliation and feeling low, so much so that there is a whole "Happiness" industry that tries to tell us that all our problems are because we aren't happy enough. 
+
+BUT
+
+Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](/Gift-of-suffering)
+
+
+
+---
+
+
+
+[Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?](money-spiritual-life)
+
+
+
+Spiritual types think money is evil, it's all about the *Luuhhvvvvvv*. But this twisted thinking actually stops them from growing spiritually.
+
+
+
+[Is the World Just a Dream or Illusion? So Can I drink beer and watch TV?](/world-dream) The question you have **always** wanted to ask, but were afraid to...;
+T;U;[0I"�<h1 id="the-path-to-joy">The Path to Joy</h1>
+
+<p><strong>Articles</strong></p>
+
+<p><a href="/Gift-of-suffering"><em>The Gift of Suffering</em></a></p>
+
+<p>We normally try to avoid suffering, pain, humiliation and feeling low, so much so that there is a whole “Happiness” industry that tries to tell us that all our problems are because we aren’t happy enough.</p>
+
+<p>BUT</p>
+
+<p>Is happiness really good for us? Or do we need a <a href="/Gift-of-suffering">itsy bitsy little suffering?</a></p>
+
+<hr />
+
+<p><a href="money-spiritual-life">Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?</a></p>
+
+<p>Spiritual types think money is evil, it’s all about the <em>Luuhhvvvvvv</em>. But this twisted thinking actually stops them from growing spiritually.</p>
+
+<p><a href="/world-dream">Is the World Just a Dream or Illusion? So Can I drink beer and watch TV?</a> The question you have <strong>always</strong> wanted to ask, but were afraid to…</p>
+;
+T;@:	post@o;;;;	I"/Gift-Of-Suffering.md;
+T{;{
+;U;[0I"J^<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New Nanoc Site - </title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.9.3">
+
+    
+  </head>
+  <body>
+    <div id="main">
+      <h1 id="the-gift-of-suffering">The Gift Of Suffering</h1>
+
+<p><em>Teacher:</em> Humans have been trying avoid pain and suffering for millennia. They have created wonderful technologies, created cure for diseases which just a hundred years ago killed millions of people, increased their comfort.</p>
+
+<p>Yet, as human comfort has grown, so has human misery. Humans are more miserable than they have ever been. Why?</p>
+
+<p><em>Me:</em> I have noticed it, though I don’t know why. They call it the first world problems. Since you are no longer scared of dying before the age of 6 from strange diseases, you now spend all your time complaining how your iPhone takes too long to boot up. Which is true in my case, did you know I read somewhere that Apple deliberately slow old devices to….</p>
+
+<p><em>Teacher:</em> Yeah, whatever.</p>
+
+<p><em>Me:</em> But its an outrage!</p>
+
+<p><em>Teacher:</em> And that’s another thing. Peoples lives are easier, but they are more angry. An army of Internet warriors spend all their time picking fights online.</p>
+
+<p>This problem is worst in what you call the first world. Rich countries, with long lives and  good incomes are the most miserable. People are depressed, thy hate their lives, their work, yet when they retire, they hate retirement and die within a few years. People don’t know what the purpose of their life is, and look to other people or the social media to tell them what to do.</p>
+
+<p><em>Me:</em> It is no better in 3rd world countries. In India, where I was born, people run after Gurus and astrologers to make their life easy. People go to Gurus not to get wisdom, but to find out when they will get a promotion, or when their evil mother in law will die.</p>
+
+<p><em>Teacher:</em> Yes, this problem has existed for thousands of years. Self help experts have replaced astrologers in the West, though they work on same principles.</p>
+
+<p><em>Me:</em> Ahem! Someone might get offended, and send me hate mail.</p>
+
+<p><em>Teacher:</em> And you think The Teacher cares?</p>
+
+<p><em>Me:</em> Well, you don’t. You don’t have an email.</p>
+
+<p><em>Teacher:</em> Haha! But I do care.</p>
+
+<p>Let them hate. I’m not saying self help experts or astrologers don’t work. The problem is, they MIGHT work, which makes it worse.</p>
+
+<p><em>Me:</em> Worse how?</p>
+
+<h2 id="why-suffering-is-necessary">Why Suffering is Necessary</h2>
+
+<p>Or: <em>How suffering is the best gift the Universe gives to us</em></p>
+
+<p><em>Teacher:</em>  All the things humans have invented, all their superstitions, from astrology to God…</p>
+
+<p><em>Me:</em> Ahem. God? You trying to start a flamewar here?</p>
+
+<p><em>Teacher:</em> Yes, God. What most people worship as God is a mental projection of their own sick mind. This God is angry, hateful and vengeful. You have had an experience of the divine, S. Did you find the experience angry or hateful?</p>
+
+<p><em>Me:</em> No. if anything, it was very peaceful and joyful. No divisions, no hate, just oneness with Love and Being. But it didn’t last.</p>
+
+<p><em>Teacher:</em> That is a story for another day.</p>
+
+<p>People have invented all sort of things to run away from misery. They hate their pain, and would do anything to avoid it. If the pain goes away, they thank some imaginary God. If it doesn’t, they scream at God, and pretend to be atheists. Am I on the right track, S?</p>
+
+<p><em>Me:</em> A little too close to home.</p>
+
+<p><em>Teacher:</em> <em>Laughs</em>. Worry not, the Universe is full of Love and giving, but it cannot give what it doesn’t receive. But today we are talking about suffering, and why it is so necessary. Why it is in fact, a gift to humankind.</p>
+
+<p><strong>The problem of most spiritual (and unspiritual) people</strong></p>
+
+<p>Many people spend years meditating. One person has chanted a mantra a million times, another has been doing Vipassna for 20 years, a third has been teaching meditation for 10 years, and practicing for 30.</p>
+
+<p>And yet these people haven’t reached “it”. They are still miserable in their inner life, though they might try to act all spiritual and holy to others.</p>
+
+<p>Why is this?</p>
+
+<p>Why do people spend years meditating with nothing to show for it?</p>
+
+<p><em>Me:</em> (Interlude) I myself spent 7-8 years meditating for 3-4 hours a day. I would get up at 5 in the morning, do 2 hours of meditation, and another 2 hours before sleeping. Did this for almost 8 years, had no effect, became disillusioned and gave up. Spent the next 7 years as a hard core atheist.</p>
+
+<p><em>Teacher:</em> Yes. What you don’t realise is, those 7 years spent as an atheist were AS important as the years spent meditating. Because it was in this 7 years that the lessons you had only been <em>reading</em> about were turned into practical advice, often WITHOUT your conscious knowledge.</p>
+
+<p>What turned you back to meditation?</p>
+
+<p><em>Me:</em> Intense suffering. Lost my job, company screwed me out of benefits, having only 1-2 months money to live, and all job interviews turning bad.</p>
+
+<p><em>Teacher:</em> Yes. And that’s what is needed. Intense suffering.</p>
+
+<p>The problem is the ego. You read the Gita, you read the Dhampadda, you read the Koran or whatever, and the ego takes over the message. It takes the message and interprets it according to its own worldview.</p>
+
+<p>You have read how the Vedanta and the Course in Miracle say the world is a dream. They don’t mean the world is not real, rather the world YOU SEE in NOT REAL.</p>
+
+<p>You project your own thoughts on to the world.</p>
+
+<p><em>Me:</em> What does that mean?</p>
+
+<p><em>Teacher:</em> It’s like an angry man thinks the whole world is angry. Or an over-sexed man thinks the woman are deliberately trying to tempt him. In both the cases, the problem lies inside the person, but they project it on to the world. Suddenly, it is the fault of someone out there that I am so angry / hateful / jealous.</p>
+
+<p>We rarely see the REAL world. Instead, we see the projection our own mind and thoughts. The mind interprets everything it sees.</p>
+
+<p>So the sun is shining, and the mind says “It is too hot! Why can’t it be cooler?”</p>
+
+<p>It is raining, the mind says “It is always raining, what bloody awful weather, I wanted to go for a walk.”</p>
+
+<p>In both the case, the sun or the rain are neutral, and yet the mind has interpreted them to be enemies.</p>
+
+<p>That’s what the ego does to remain in control. It will read the religious scriptures, but rather than be changed by the book, it will try to co-opt the message.</p>
+
+<p>And that is why you can have people reading about Jesus, a man who forgave even those who killed him, and interpret his teachings to start wars, or torture people, or enslave another race. In each case, the mind sees no contradiction, because the ego always convinces you You are doing the right thing. How can you be wrong? You are so spiritual!</p>
+
+<p>Yet, you cannot fool the Universe.</p>
+
+<p>That’s where suffering comes in. Suffering is a told ro crush the ego, to smash it to bits. Only when you are feeling completely helpless, when you realise you are out of your depth, when you realise that all your plans have failed, only then can you be open to the SPIRIT.</p>
+
+<p>Only then can you say: “I have been wrong all along. I DO NOT UNDERSTAND ANYTHING. Please teach me.”</p>
+
+<p>And that’s when the universe can really help you. What have I told you about meditation?</p>
+
+<p><em>Me:</em> That real meditation is getting the mind to just SHUT UP for two minutes, so the Divine experience can roll in.</p>
+
+<p><em>Teacher:</em> (laughs) Exactly. Suffering does the same thing, except in a more permanent and long lasting way. For most people, suffering is the only way they will awake. It’s not a matter of getting them to start meditating, or getting them to join your church, or follow your Guru, or whatever else silly steps most over zealous humans try to do.</p>
+
+<p>They may follow your Church or your Guru, but then they’ll end up as stupid as everyone else in that Gurudom/Church.</p>
+
+<p>No, the solution is that they need to go through their own bout of suffering. Their ego needs to be crushed, and throughly.</p>
+
+<h2 id="the-insane-ego">The Insane Ego</h2>
+
+<p>Each one of us carries the seeds of insanity within us. We are, truth be told, totally insane.</p>
+
+<p>The only reason we get away with it is because other people are as insane as us, if not more.</p>
+
+<p>What do I mean by this?</p>
+
+<p>If you look at your mind, really look at it, you will see it acts like a mad person.</p>
+
+<p>One part of your mind will say: I need to lose weight. Another will say: Maybe, but first let’s have this delicious donut.</p>
+
+<p>And once you have that donut, the same mind will then shame you. “You disgusting fat pig! Have you no self control!”</p>
+
+<p>It’s like we have multiple personalities within us, all out to get us.</p>
+
+<p>If you saw a person walking on the street, talking to themselves, screaming insults, would you not decide they are a little crazy and avoid them?</p>
+
+<p>And yet, what do you do? Do you not do the same? You may not shout loudly, but you are talking to yourself in your head, constantly judging yourself and others, constantly looking to either attack or defend yourself from imagined slights.</p>
+
+<p>This is what is caused in spiritual lingo the Ego. It is an insane part of you, the part of you that talks to itself, the non-stop stream of thinking / judging / analysing that all of us go through.</p>
+
+<p>And like we have said before, ego LIKES to be in CONTROL. And so it constantly creates situations that increase drama in our life, so that there is always stress, always something going wrong.</p>
+
+<p>You want your dream job, and you get it. And the ego will start telling you how bad your boss is, how you could do better. Or now it wants an even higher paying job. The ego is never satisfied, because the ego is born of strife, and if your life became peaceful, the ego would have to die.</p>
+
+<p>Sometimes, the ego doesn’t even need an excuse. It will look at something stressful in your life and try to blame you for it. You have an example, don’t you, S? from our last talk?</p>
+
+<p><em>Me:</em> Yes. I was guilty as I hadn’t meditated for a few days, and then some problem at work came up. And my mind said: Aha! You didn’t meditate, now God is punishing you.</p>
+
+<p><em>Teacher:</em> Yes. And I told you the Universe doesn’t work like that. It doesn’t work by shaming or attacking you. The Universe WANTS YOU TO BE HAPPY ABOVE ALL ELSE. It would rather you remained unspiritual and happy than a miserable spiritual person.</p>
+
+<p>And remember what I told you about how to deal with the problem at work?</p>
+
+<p><em>Me:</em> You said to remain calm and trust the Spirit, and that the solution would present itself. And it did. But I would never have found it if I had been stuck in a cycle of self shaming.</p>
+
+<p><em>Teacher:</em> self shaming. Yes, that’s how the ego works, constantly attacking and belittling you.</p>
+
+<p><em>Me:</em> We have been taught that if we are too happy, “they” will get us, will bring us down a notch; where they can be Karma, God, other people, energies etc.</p>
+
+<p><em>Teacher:</em> And now you know: Being happy, being joyful, is your birth right, and the universe wants you to be happy.</p>
+
+<p>Question time: If the Universe (call it Spirit or God or Being) wants to help us, why do our prayers often go unheard?</p>
+
+<p><em>Me:</em> Ummm, the phone line is bad? God is in the shower when we call?</p>
+
+<p><em>Teacher:</em> Yes, he is always in the shower, as many humans never get through to him!</p>
+
+<p>Rather, it is the humans who have difficulty listening. You must know why by now.</p>
+
+<p><em>Me:</em> (Pretend to act real smart and wise).</p>
+
+<p><em>Teacher:</em> Because most human problems are created by the ego. They are created by your own mind, and the solution is ALSO IN YOUR OWN MIND.</p>
+
+<p>All that the Universe can do is guide you out of the hell YOU created. It does so by giving you wisdom to see how you are responsible for your own misery, and then guiding you out of that misery.</p>
+
+<p><em>Me:</em> What about things like, when people need money, or are poor?</p>
+
+<p><em>Teacher:</em> You faced a financial crisis when you lost your job. You were miserable then. If God had given you a million dollars, would that have solved your problems?</p>
+
+<p><em>Me:</em> Not really. I would have found something else to be miserable about J</p>
+
+<p><em>Teacher:</em> Exactly. The Inner Teacher or Guide helps us by giving us what we really want.</p>
+
+<p>Normally, we say things like “I want more money, or I want true love”. You may fool others with these words, but you don’t fool the Universe. It knows that even if you get your pay rise or “true love”, you will find a reason to complain, to start looking at other men/women soon.</p>
+
+<p>And that’s why most prayers go unanswered: because you ask for things that do not make sense, and WOULD NOT MAKE YOU HAPPY. But that does not mean the prayer is not heard, <strong>it always is</strong>. Just that the Inner Teacher reserves the teaching for you, and tries to guide you to what YOU ACTUALLY NEED.</p>
+
+<h2 id="most-suffering-is-resistance-to-the-present">Most Suffering is Resistance to the Present</h2>
+
+<p>You have in your mind a mental idea of how the universe should work and how it should treat you. You need to be a millionaire by 30, have a sexy partner who listens to your every desire, but who in turn wants nothing from you.</p>
+
+<p>And you get angry when your desire are not fulfilled.</p>
+
+<p>Here is the thing though: the Universe always gives you MORE THAN YOU NEED. It is only your own resistance that either stops the universes gifts, or makes you miserable.</p>
+
+<p><em>Me:</em> How stop the universe’s gifts?</p>
+
+<p><em>Teacher:</em> You can only accept as much as you are open. If you trust the system, if you are willing to let go, if you are willing to show your fellow brothers and sisters the same Love YOU expect from the Universe, then the Universe can reward you.</p>
+
+<p>If you are full of anger and hate and jealousy, you block the Love of Being, which means you suffer.</p>
+
+<p><em>Me:</em> Does that mean poor people, or people in 3rd world countries are all blocking the light?</p>
+
+<p><em>Teacher:</em> But are they suffering? It is only your ego that thinks so. Many of the poorest people in the world are also the happiest. Some are miserable sods, but then you can’t please everyone.</p>
+
+<p><em>Me:</em> HA!</p>
+
+<p><em>Teacher:</em> The Universe always gives you MORE than YOU NEED. That is the key fact. Whether it is money, sex, houses/cars, the Universe has your back. Unless you block the energy of the Being from flowing through you.</p>
+
+<p>One way you can do that is by forcing your own opinions on the World. “The world should be like this” or “I have been meditating for 7 years, I deserve to get enlightened by now, dammit!”</p>
+
+<p><em>Me:</em> Yeah, I don’t know who you are talking about now. I will swear in court I never said that.</p>
+
+<p><em>Teacher:</em> Haha. Where does all the misery in the life of humans comes from?</p>
+
+<p><em>Resistance to the Present.</em></p>
+
+<p>Don’t believe me? Give me a few examples when you, or anyone else you know or read or heard about, could be miserable. Go on. Give us 5-8 examples.</p>
+
+<p><em>Me:</em>  you sure, buddy? Cause I will throw some tricky ones out.</p>
+
+<p><em>Teacher:</em> Hit me.</p>
+
+<p><em>Me:</em> Ok. In no particular order:</p>
+
+<ul>
+  <li>
+    <p>Losing job, or about to</p>
+  </li>
+  <li>
+    <p>Facing bankruptcy, imminent</p>
+  </li>
+  <li>
+    <p>Not finding love</p>
+  </li>
+  <li>
+    <p>Hating person you are married to</p>
+  </li>
+  <li>
+    <p>Boss hates you, job sucks, pay is terrible, you can’t find another job</p>
+  </li>
+  <li>
+    <p>Pinky and the Brain cancelled on TV</p>
+  </li>
+</ul>
+
+<p>Umm, that’s it, I think.</p>
+
+<p><em>Teacher:</em> Good.</p>
+
+<p>Let’s look at these. Most of these examples, and any else you could think of, have to do with losing something.</p>
+
+<p>Losing your job, or your lifestyle, your home, your family; in case of not finding love or perfect job.</p>
+
+<p>In either case, you have a mental idea of something that should happen (or not happen) to make you happy.</p>
+
+<p>If I don’t find a perfect job, I won’t be happy. If I lose my current job, I wont be happy. If this, if that, or this or that, THEN I won’t/will be happy.</p>
+
+<p>You do not understand the present. You live either in the past or future.</p>
+
+<p><em>Me:</em> HA! I have heard this <em>Live in the present</em> bull crap before. But what happens if you are facing bankruptcy like tomorrow? How do you live in the moment then?</p>
+
+<p><em>Teacher:</em> Tomorrow is still a day away, isn’t it? Why are you worried about tomorrow today?</p>
+
+<p>And it is possible you will be bankrupt. You might lose your savings.</p>
+
+<p>But you must have trust that the Universe will provide for you. That is where the Gift of Suffering comes in. It does not come to punish. The Universe, or God or Being, DOES NOT TEACH BY PAIN.</p>
+
+<p>That is your own ego. It creates situations for you to suffer, and then it gleefully enjoys itself while it blames you.</p>
+
+<p>If you ever face a situation where you are facing bankruptcy, your partner is leaving you, and all his going to hell, remember: YOU CREATED THIS SITUATION.</p>
+
+<p>I know, harsh. But true. Maybe not at a conscious level, but the ego is rarely under your conscious control.</p>
+
+<p>The solution then is no to blame, to get angry, or to worry. It is to stay in THIS MOMENT, and ask the Inner Teacher for help. Ask your Guide for help.</p>
+
+<p>The Universe will always give you a way out. It will always give back anything you lost. Give your own example, S.</p>
+
+<p><em>Me:</em> Well, my previous company screwed me out of tens of thousands of pounds of redundancy pay. I trusted the Universe to guide me, and I have gotten, or will soon get, most of that money. MORE, in fact. The Universe is returning the money I lost WITH INTEREST. Lots of interest, as I’m getting many multiples back, thanks to a job with a bonus scheme.</p>
+
+<p>So thank you, Teacher, your advice to be patient and trust the system was right. BUT, there were a painful few months that had me crying in tears everyday. It was a very stressful time; and though you told me nothing would harm me, I was still terrified.</p>
+
+<p><em>Teacher:</em> And that is the Gift of Suffering. It gives you a bigger perspective, a Higher View, as it were. It shows you how mundane, how tiny, the problems of daily life are. How there is a huge OCEAN OF LOVE looking out for us EVERY SECOND. And yet, we humans turn our back on this ocean, and try to pretend we are all alone, that our problems are ours to solve alone.</p>
+
+<p>If only we open our Hearts, the Ocean WILL Flow thru us, spreading its Love throughout our Being. In that point, there are no problems, no pain, no suffering.</p>
+
+<p>If you are still struggling in the mundane world, the Ocean has the solution for you. As the Course in Miracles says:</p>
+
+<p><em>The solution to every problem is created at the same time as the problem arises.</em></p>
+
+<p>We just have to be attuned to the Universe to listen to this answer. S, you had an experience of the Ocean, didn’t you? Share it?</p>
+
+<p><em>Me:</em> Well, I was watching this movie where a mother dies, leaving a little baby alone. And it made me sad.</p>
+
+<p>I went out for a walk, and this Realisation hit me. Literally, hit me like a bus. It was an experience I can’t explain, but let me try.</p>
+
+<p>I Realised that the world is a Place of Joy, not in spite of suffering, BUT BECAUSE OF IT.</p>
+
+<p>Because no matter how much you suffer, you can, at any time, LITERALLY ANY TIME, turn to an Ocean of Love, a calm loving presence, called God, Spirit, Being, whatever; and that all your sorrows and little pains melt away when the sun like light of Love falls on you.</p>
+
+<p>Like I said, this was a spiritual experience, and most people will not be able to realise this in their own lives. But the path is open to them.</p>
+
+<p><em>Teacher:</em> It always is, to everyone. Everyone, no matter how evil your society thinks they have been, murderers, rapists, lifelong criminals, psychopaths, each of us is equal in Being.</p>
+
+<p>All of us have the SAME chance to feel the Love And Joy of Being, if ONLY we are willing to open our Hearts.</p>
+
+<p>Most people cannot open their hearts. They think love means sexual love, or even worse, sexual attraction, or selfish controlling emotions masquerading as love.</p>
+
+<p>And that is why they need the Gift of suffering. Because suffering, as seen by the ego, is the best way to cut through millions of layers of bullshit created by the ego…</p>
+
+<p><em>Me:</em> Haha, you aid bullshit. Not very Guru like.</p>
+
+<p><em>Teacher:</em> Nope. That’s why never won Guru of the Year Award, or Most Popular Spiritual Person in the World Award. J</p>
+
+<p>So suffering can cut thru the layers of ignorance created by the ego, and show you YOUR TRUE SELF.</p>
+
+<p>It puts you in touch with the universe. It shows you YOU DON’T NEED to struggle ALONE. That you can ask for, and will receive, whatever you need and desire.</p>
+
+<p>So don’t run from suffering. Don’t try to avoid the bad times. Don’t try to be positive all the time.</p>
+
+<p><em>Me:</em> Being positive is the new religion. People get blamed for everything, like falling sick, saying they weren’t positive enough.</p>
+
+<p><em>Teacher:</em> And there may be a kernel of truth in that, but it becomes harmful when it becomes an instrument of shaming, which is what the ego usually does. ‘It is your fault for falling sick / losing your job, as you should have been more positive’ is the classic way the ego tries to keep you in check.</p>
+
+<p>Note there is a simple check to see who you are listening to / taking advice from.</p>
+
+<p>Ego: Will make you feel depressed, shit, lazy, unwilling to work, Feel like “What’s the use of anything.”</p>
+
+<p>The Inner Teacher / Spirit: Will have a loving and kind voice though very silent.</p>
+
+<p>Will make you feel calm, loving, and willing to act in the world without selfishness.</p>
+
+<p>You can only serve one master, like the Bible says. Choose carefully.</p>
+
+<p>And remember this: SUFFERING IS A CHOICE.</p>
+
+<p>You suffer because you listen to the ego, and it drives you insane. Once you realise that there is something bigger than you looking out for you, there will be no need to get sad or depressed, because YOU WILL KNOW, at your deepest level, that you are not alone, that the Ocean of Love is looking out for you.</p>
+
+<p>This is NOT an intellectual understanding, you must FEEL this in the deepest part of your Being.</p>
+
+<p>Until you can do so, you might need Suffering as a Teacher. But don’t worry, it is a teacher that will soon be gone, once your Real Teacher, The Spirit, comes forward.</p>
+
+<p>And that’s when the end of suffering will began.</p>
+
+
+    </div>
+    <div id="sidebar">
+      <h2>Documentation</h2>
+      <ul>
+        <li><a href="http://nanoc.ws/doc/">Documentation</a></li>
+        <li><a href="http://nanoc.ws/doc/tutorial/">Tutorial</a></li>
+      </ul>
+      <h2>Community</h2>
+      <ul>
+        <li><a href="http://groups.google.com/group/nanoc/">Discussion group</a></li>
+        <li><a href="https://gitter.im/nanoc/nanoc">Gitter channel</a></li>
+        <li><a href="http://nanoc.ws/contributing/">Contributing</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;
+T;U;[I",C:/st/path/content/Gift-Of-Suffering.md;
+TI"�U# The Gift Of Suffering
+
+ 
+
+*Teacher:* Humans have been trying avoid pain and suffering for millennia. They have created wonderful technologies, created cure for diseases which just a hundred years ago killed millions of people, increased their comfort. 
+
+ 
+
+Yet, as human comfort has grown, so has human misery. Humans are more miserable than they have ever been. Why?
+
+ 
+
+*Me:* I have noticed it, though I don’t know why. They call it the first world problems. Since you are no longer scared of dying before the age of 6 from strange diseases, you now spend all your time complaining how your iPhone takes too long to boot up. Which is true in my case, did you know I read somewhere that Apple deliberately slow old devices to….
+
+ 
+
+*Teacher:* Yeah, whatever.
+
+ 
+
+*Me:* But its an outrage!
+
+ 
+
+*Teacher:* And that’s another thing. Peoples lives are easier, but they are more angry. An army of Internet warriors spend all their time picking fights online.
+
+ 
+
+This problem is worst in what you call the first world. Rich countries, with long lives and  good incomes are the most miserable. People are depressed, thy hate their lives, their work, yet when they retire, they hate retirement and die within a few years. People don’t know what the purpose of their life is, and look to other people or the social media to tell them what to do. 
+
+ 
+
+*Me:* It is no better in 3rd world countries. In India, where I was born, people run after Gurus and astrologers to make their life easy. People go to Gurus not to get wisdom, but to find out when they will get a promotion, or when their evil mother in law will die.
+
+ 
+
+*Teacher:* Yes, this problem has existed for thousands of years. Self help experts have replaced astrologers in the West, though they work on same principles.
+
+ 
+
+*Me:* Ahem! Someone might get offended, and send me hate mail.
+
+ 
+
+*Teacher:* And you think The Teacher cares?
+
+ 
+
+*Me:* Well, you don’t. You don’t have an email.
+
+ 
+
+*Teacher:* Haha! But I do care.
+
+ 
+
+Let them hate. I’m not saying self help experts or astrologers don’t work. The problem is, they MIGHT work, which makes it worse.
+
+ 
+
+*Me:* Worse how?
+
+ 
+
+## Why Suffering is Necessary
+
+ 
+
+Or: *How suffering is the best gift the Universe gives to us*
+
+ 
+
+*Teacher:*  All the things humans have invented, all their superstitions, from astrology to God…
+
+ 
+
+*Me:* Ahem. God? You trying to start a flamewar here?
+
+ 
+
+*Teacher:* Yes, God. What most people worship as God is a mental projection of their own sick mind. This God is angry, hateful and vengeful. You have had an experience of the divine, S. Did you find the experience angry or hateful?
+
+ 
+
+*Me:* No. if anything, it was very peaceful and joyful. No divisions, no hate, just oneness with Love and Being. But it didn’t last.
+
+ 
+
+*Teacher:* That is a story for another day. 
+
+ 
+
+People have invented all sort of things to run away from misery. They hate their pain, and would do anything to avoid it. If the pain goes away, they thank some imaginary God. If it doesn’t, they scream at God, and pretend to be atheists. Am I on the right track, S?
+
+ 
+
+*Me:* A little too close to home.
+
+ 
+
+*Teacher:* *Laughs*. Worry not, the Universe is full of Love and giving, but it cannot give what it doesn’t receive. But today we are talking about suffering, and why it is so necessary. Why it is in fact, a gift to humankind.
+
+ 
+
+ 
+
+**The problem of most spiritual (and unspiritual) people**
+
+ 
+
+Many people spend years meditating. One person has chanted a mantra a million times, another has been doing Vipassna for 20 years, a third has been teaching meditation for 10 years, and practicing for 30.
+
+ 
+
+And yet these people haven’t reached “it”. They are still miserable in their inner life, though they might try to act all spiritual and holy to others.
+
+ 
+
+Why is this?
+
+ 
+
+Why do people spend years meditating with nothing to show for it?
+
+ 
+
+*Me:* (Interlude) I myself spent 7-8 years meditating for 3-4 hours a day. I would get up at 5 in the morning, do 2 hours of meditation, and another 2 hours before sleeping. Did this for almost 8 years, had no effect, became disillusioned and gave up. Spent the next 7 years as a hard core atheist.
+
+ 
+
+*Teacher:* Yes. What you don’t realise is, those 7 years spent as an atheist were AS important as the years spent meditating. Because it was in this 7 years that the lessons you had only been *reading* about were turned into practical advice, often WITHOUT your conscious knowledge.
+
+ 
+
+What turned you back to meditation?
+
+ 
+
+*Me:* Intense suffering. Lost my job, company screwed me out of benefits, having only 1-2 months money to live, and all job interviews turning bad.
+
+ 
+
+*Teacher:* Yes. And that’s what is needed. Intense suffering.
+
+ 
+
+The problem is the ego. You read the Gita, you read the Dhampadda, you read the Koran or whatever, and the ego takes over the message. It takes the message and interprets it according to its own worldview.
+
+ 
+
+You have read how the Vedanta and the Course in Miracle say the world is a dream. They don’t mean the world is not real, rather the world YOU SEE in NOT REAL.
+
+ 
+
+You project your own thoughts on to the world.
+
+ 
+
+*Me:* What does that mean?
+
+ 
+
+*Teacher:* It’s like an angry man thinks the whole world is angry. Or an over-sexed man thinks the woman are deliberately trying to tempt him. In both the cases, the problem lies inside the person, but they project it on to the world. Suddenly, it is the fault of someone out there that I am so angry / hateful / jealous.
+
+ 
+
+We rarely see the REAL world. Instead, we see the projection our own mind and thoughts. The mind interprets everything it sees.
+
+ 
+
+So the sun is shining, and the mind says “It is too hot! Why can’t it be cooler?”
+
+ 
+
+It is raining, the mind says “It is always raining, what bloody awful weather, I wanted to go for a walk.”
+
+ 
+
+In both the case, the sun or the rain are neutral, and yet the mind has interpreted them to be enemies.
+
+ 
+
+That’s what the ego does to remain in control. It will read the religious scriptures, but rather than be changed by the book, it will try to co-opt the message.
+
+ 
+
+And that is why you can have people reading about Jesus, a man who forgave even those who killed him, and interpret his teachings to start wars, or torture people, or enslave another race. In each case, the mind sees no contradiction, because the ego always convinces you You are doing the right thing. How can you be wrong? You are so spiritual!
+
+ 
+
+Yet, you cannot fool the Universe.
+
+ 
+
+That’s where suffering comes in. Suffering is a told ro crush the ego, to smash it to bits. Only when you are feeling completely helpless, when you realise you are out of your depth, when you realise that all your plans have failed, only then can you be open to the SPIRIT.
+
+ 
+
+Only then can you say: “I have been wrong all along. I DO NOT UNDERSTAND ANYTHING. Please teach me.”
+
+ 
+
+And that’s when the universe can really help you. What have I told you about meditation?
+
+ 
+
+*Me:* That real meditation is getting the mind to just SHUT UP for two minutes, so the Divine experience can roll in.
+
+ 
+
+*Teacher:* (laughs) Exactly. Suffering does the same thing, except in a more permanent and long lasting way. For most people, suffering is the only way they will awake. It’s not a matter of getting them to start meditating, or getting them to join your church, or follow your Guru, or whatever else silly steps most over zealous humans try to do. 
+
+ 
+
+They may follow your Church or your Guru, but then they’ll end up as stupid as everyone else in that Gurudom/Church.
+
+ 
+
+No, the solution is that they need to go through their own bout of suffering. Their ego needs to be crushed, and throughly.
+
+ 
+
+## The Insane Ego
+
+ 
+
+Each one of us carries the seeds of insanity within us. We are, truth be told, totally insane.
+
+ 
+
+The only reason we get away with it is because other people are as insane as us, if not more.
+
+ 
+
+What do I mean by this?
+
+ 
+
+If you look at your mind, really look at it, you will see it acts like a mad person.
+
+ 
+
+One part of your mind will say: I need to lose weight. Another will say: Maybe, but first let’s have this delicious donut.
+
+ 
+
+And once you have that donut, the same mind will then shame you. “You disgusting fat pig! Have you no self control!”
+
+ 
+
+It’s like we have multiple personalities within us, all out to get us.
+
+ 
+
+If you saw a person walking on the street, talking to themselves, screaming insults, would you not decide they are a little crazy and avoid them?
+
+ 
+
+And yet, what do you do? Do you not do the same? You may not shout loudly, but you are talking to yourself in your head, constantly judging yourself and others, constantly looking to either attack or defend yourself from imagined slights.
+
+ 
+
+This is what is caused in spiritual lingo the Ego. It is an insane part of you, the part of you that talks to itself, the non-stop stream of thinking / judging / analysing that all of us go through.
+
+ 
+
+And like we have said before, ego LIKES to be in CONTROL. And so it constantly creates situations that increase drama in our life, so that there is always stress, always something going wrong.
+
+ 
+
+You want your dream job, and you get it. And the ego will start telling you how bad your boss is, how you could do better. Or now it wants an even higher paying job. The ego is never satisfied, because the ego is born of strife, and if your life became peaceful, the ego would have to die.
+
+ 
+
+Sometimes, the ego doesn’t even need an excuse. It will look at something stressful in your life and try to blame you for it. You have an example, don’t you, S? from our last talk?
+
+ 
+
+*Me:* Yes. I was guilty as I hadn’t meditated for a few days, and then some problem at work came up. And my mind said: Aha! You didn’t meditate, now God is punishing you.
+
+ 
+
+*Teacher:* Yes. And I told you the Universe doesn’t work like that. It doesn’t work by shaming or attacking you. The Universe WANTS YOU TO BE HAPPY ABOVE ALL ELSE. It would rather you remained unspiritual and happy than a miserable spiritual person.
+
+ 
+
+And remember what I told you about how to deal with the problem at work?
+
+ 
+
+*Me:* You said to remain calm and trust the Spirit, and that the solution would present itself. And it did. But I would never have found it if I had been stuck in a cycle of self shaming.
+
+ 
+
+*Teacher:* self shaming. Yes, that’s how the ego works, constantly attacking and belittling you.
+
+ 
+
+*Me:* We have been taught that if we are too happy, “they” will get us, will bring us down a notch; where they can be Karma, God, other people, energies etc.
+
+ 
+
+*Teacher:* And now you know: Being happy, being joyful, is your birth right, and the universe wants you to be happy.
+
+ 
+
+Question time: If the Universe (call it Spirit or God or Being) wants to help us, why do our prayers often go unheard?
+
+ 
+
+*Me:* Ummm, the phone line is bad? God is in the shower when we call?
+
+ 
+
+*Teacher:* Yes, he is always in the shower, as many humans never get through to him!
+
+ 
+
+Rather, it is the humans who have difficulty listening. You must know why by now.
+
+ 
+
+*Me:* (Pretend to act real smart and wise).
+
+ 
+
+*Teacher:* Because most human problems are created by the ego. They are created by your own mind, and the solution is ALSO IN YOUR OWN MIND.
+
+ 
+
+All that the Universe can do is guide you out of the hell YOU created. It does so by giving you wisdom to see how you are responsible for your own misery, and then guiding you out of that misery.
+
+ 
+
+*Me:* What about things like, when people need money, or are poor?
+
+ 
+
+*Teacher:* You faced a financial crisis when you lost your job. You were miserable then. If God had given you a million dollars, would that have solved your problems?
+
+ 
+
+*Me:* Not really. I would have found something else to be miserable about J
+
+ 
+
+*Teacher:* Exactly. The Inner Teacher or Guide helps us by giving us what we really want.
+
+ 
+
+Normally, we say things like “I want more money, or I want true love”. You may fool others with these words, but you don’t fool the Universe. It knows that even if you get your pay rise or “true love”, you will find a reason to complain, to start looking at other men/women soon.
+
+ 
+
+And that’s why most prayers go unanswered: because you ask for things that do not make sense, and WOULD NOT MAKE YOU HAPPY. But that does not mean the prayer is not heard, **it always is**. Just that the Inner Teacher reserves the teaching for you, and tries to guide you to what YOU ACTUALLY NEED.
+
+ 
+
+## Most Suffering is Resistance to the Present
+
+ 
+
+ 
+
+You have in your mind a mental idea of how the universe should work and how it should treat you. You need to be a millionaire by 30, have a sexy partner who listens to your every desire, but who in turn wants nothing from you.
+
+ 
+
+And you get angry when your desire are not fulfilled.
+
+ 
+
+Here is the thing though: the Universe always gives you MORE THAN YOU NEED. It is only your own resistance that either stops the universes gifts, or makes you miserable.
+
+ 
+
+*Me:* How stop the universe’s gifts?
+
+ 
+
+*Teacher:* You can only accept as much as you are open. If you trust the system, if you are willing to let go, if you are willing to show your fellow brothers and sisters the same Love YOU expect from the Universe, then the Universe can reward you.
+
+ 
+
+If you are full of anger and hate and jealousy, you block the Love of Being, which means you suffer.
+
+ 
+
+*Me:* Does that mean poor people, or people in 3rd world countries are all blocking the light?
+
+ 
+
+*Teacher:* But are they suffering? It is only your ego that thinks so. Many of the poorest people in the world are also the happiest. Some are miserable sods, but then you can’t please everyone.
+
+ 
+
+*Me:* HA!
+
+ 
+
+*Teacher:* The Universe always gives you MORE than YOU NEED. That is the key fact. Whether it is money, sex, houses/cars, the Universe has your back. Unless you block the energy of the Being from flowing through you.
+
+ 
+
+One way you can do that is by forcing your own opinions on the World. “The world should be like this” or “I have been meditating for 7 years, I deserve to get enlightened by now, dammit!”
+
+ 
+
+ 
+
+*Me:* Yeah, I don’t know who you are talking about now. I will swear in court I never said that.
+
+ 
+
+*Teacher:* Haha. Where does all the misery in the life of humans comes from?
+
+ 
+
+*Resistance to the Present.*
+
+ 
+
+Don’t believe me? Give me a few examples when you, or anyone else you know or read or heard about, could be miserable. Go on. Give us 5-8 examples.
+
+ 
+
+*Me:*  you sure, buddy? Cause I will throw some tricky ones out.
+
+ 
+
+*Teacher:* Hit me.
+
+ 
+
+*Me:* Ok. In no particular order:
+
+ 
+
+*  Losing job, or about to
+
+* Facing bankruptcy, imminent
+
+* Not finding love
+
+* Hating person you are married to
+
+* Boss hates you, job sucks, pay is terrible, you can’t find another job
+
+* Pinky and the Brain cancelled on TV
+
+ 
+
+Umm, that’s it, I think.
+
+ 
+
+*Teacher:* Good.
+
+ 
+
+Let’s look at these. Most of these examples, and any else you could think of, have to do with losing something.
+
+ 
+
+Losing your job, or your lifestyle, your home, your family; in case of not finding love or perfect job.
+
+ 
+
+In either case, you have a mental idea of something that should happen (or not happen) to make you happy.
+
+ 
+
+If I don’t find a perfect job, I won’t be happy. If I lose my current job, I wont be happy. If this, if that, or this or that, THEN I won’t/will be happy.
+
+ 
+
+You do not understand the present. You live either in the past or future.
+
+ 
+
+*Me:* HA! I have heard this *Live in the present* bull crap before. But what happens if you are facing bankruptcy like tomorrow? How do you live in the moment then?
+
+ 
+
+*Teacher:* Tomorrow is still a day away, isn’t it? Why are you worried about tomorrow today?
+
+ 
+
+And it is possible you will be bankrupt. You might lose your savings. 
+
+ 
+
+But you must have trust that the Universe will provide for you. That is where the Gift of Suffering comes in. It does not come to punish. The Universe, or God or Being, DOES NOT TEACH BY PAIN.
+
+ 
+
+That is your own ego. It creates situations for you to suffer, and then it gleefully enjoys itself while it blames you.
+
+ 
+
+If you ever face a situation where you are facing bankruptcy, your partner is leaving you, and all his going to hell, remember: YOU CREATED THIS SITUATION.
+
+ 
+
+I know, harsh. But true. Maybe not at a conscious level, but the ego is rarely under your conscious control.
+
+ 
+
+The solution then is no to blame, to get angry, or to worry. It is to stay in THIS MOMENT, and ask the Inner Teacher for help. Ask your Guide for help.
+
+ 
+
+The Universe will always give you a way out. It will always give back anything you lost. Give your own example, S.
+
+ 
+
+*Me:* Well, my previous company screwed me out of tens of thousands of pounds of redundancy pay. I trusted the Universe to guide me, and I have gotten, or will soon get, most of that money. MORE, in fact. The Universe is returning the money I lost WITH INTEREST. Lots of interest, as I’m getting many multiples back, thanks to a job with a bonus scheme.
+
+ 
+
+So thank you, Teacher, your advice to be patient and trust the system was right. BUT, there were a painful few months that had me crying in tears everyday. It was a very stressful time; and though you told me nothing would harm me, I was still terrified.
+
+ 
+
+*Teacher:* And that is the Gift of Suffering. It gives you a bigger perspective, a Higher View, as it were. It shows you how mundane, how tiny, the problems of daily life are. How there is a huge OCEAN OF LOVE looking out for us EVERY SECOND. And yet, we humans turn our back on this ocean, and try to pretend we are all alone, that our problems are ours to solve alone.
+
+ 
+
+If only we open our Hearts, the Ocean WILL Flow thru us, spreading its Love throughout our Being. In that point, there are no problems, no pain, no suffering.
+
+ 
+
+If you are still struggling in the mundane world, the Ocean has the solution for you. As the Course in Miracles says:
+
+ 
+
+*The solution to every problem is created at the same time as the problem arises.*
+
+ 
+
+We just have to be attuned to the Universe to listen to this answer. S, you had an experience of the Ocean, didn’t you? Share it?
+
+ 
+
+*Me:* Well, I was watching this movie where a mother dies, leaving a little baby alone. And it made me sad.
+
+ 
+
+I went out for a walk, and this Realisation hit me. Literally, hit me like a bus. It was an experience I can’t explain, but let me try.
+
+ 
+
+I Realised that the world is a Place of Joy, not in spite of suffering, BUT BECAUSE OF IT.
+
+ 
+
+Because no matter how much you suffer, you can, at any time, LITERALLY ANY TIME, turn to an Ocean of Love, a calm loving presence, called God, Spirit, Being, whatever; and that all your sorrows and little pains melt away when the sun like light of Love falls on you.
+
+ 
+
+Like I said, this was a spiritual experience, and most people will not be able to realise this in their own lives. But the path is open to them.
+
+ 
+
+*Teacher:* It always is, to everyone. Everyone, no matter how evil your society thinks they have been, murderers, rapists, lifelong criminals, psychopaths, each of us is equal in Being.
+
+ 
+
+All of us have the SAME chance to feel the Love And Joy of Being, if ONLY we are willing to open our Hearts.
+
+ 
+
+Most people cannot open their hearts. They think love means sexual love, or even worse, sexual attraction, or selfish controlling emotions masquerading as love.
+
+ 
+
+And that is why they need the Gift of suffering. Because suffering, as seen by the ego, is the best way to cut through millions of layers of bullshit created by the ego…
+
+ 
+
+*Me:* Haha, you aid bullshit. Not very Guru like.
+
+ 
+
+ 
+
+*Teacher:* Nope. That’s why never won Guru of the Year Award, or Most Popular Spiritual Person in the World Award. J
+
+ 
+
+So suffering can cut thru the layers of ignorance created by the ego, and show you YOUR TRUE SELF.
+
+ 
+
+It puts you in touch with the universe. It shows you YOU DON’T NEED to struggle ALONE. That you can ask for, and will receive, whatever you need and desire.
+
+ 
+
+ 
+
+So don’t run from suffering. Don’t try to avoid the bad times. Don’t try to be positive all the time.
+
+ 
+
+*Me:* Being positive is the new religion. People get blamed for everything, like falling sick, saying they weren’t positive enough.
+
+ 
+
+*Teacher:* And there may be a kernel of truth in that, but it becomes harmful when it becomes an instrument of shaming, which is what the ego usually does. ‘It is your fault for falling sick / losing your job, as you should have been more positive’ is the classic way the ego tries to keep you in check.
+
+ 
+
+Note there is a simple check to see who you are listening to / taking advice from.
+
+ 
+
+Ego: Will make you feel depressed, shit, lazy, unwilling to work, Feel like “What’s the use of anything.”
+
+ 
+
+The Inner Teacher / Spirit: Will have a loving and kind voice though very silent.
+
+ 
+
+Will make you feel calm, loving, and willing to act in the world without selfishness.
+
+ 
+
+ 
+
+You can only serve one master, like the Bible says. Choose carefully.
+
+ 
+
+ 
+
+And remember this: SUFFERING IS A CHOICE.
+
+ 
+
+You suffer because you listen to the ego, and it drives you insane. Once you realise that there is something bigger than you looking out for you, there will be no need to get sad or depressed, because YOU WILL KNOW, at your deepest level, that you are not alone, that the Ocean of Love is looking out for you.
+
+ 
+
+This is NOT an intellectual understanding, you must FEEL this in the deepest part of your Being.
+
+ 
+
+ 
+
+Until you can do so, you might need Suffering as a Teacher. But don’t worry, it is a teacher that will soon be gone, once your Real Teacher, The Spirit, comes forward.
+
+ 
+
+And that’s when the end of suffering will began. 
+
+ 
+
+ ;
+T;U;[0I"�Z<h1 id="the-gift-of-suffering">The Gift Of Suffering</h1>
+
+<p><em>Teacher:</em> Humans have been trying avoid pain and suffering for millennia. They have created wonderful technologies, created cure for diseases which just a hundred years ago killed millions of people, increased their comfort.</p>
+
+<p>Yet, as human comfort has grown, so has human misery. Humans are more miserable than they have ever been. Why?</p>
+
+<p><em>Me:</em> I have noticed it, though I don’t know why. They call it the first world problems. Since you are no longer scared of dying before the age of 6 from strange diseases, you now spend all your time complaining how your iPhone takes too long to boot up. Which is true in my case, did you know I read somewhere that Apple deliberately slow old devices to….</p>
+
+<p><em>Teacher:</em> Yeah, whatever.</p>
+
+<p><em>Me:</em> But its an outrage!</p>
+
+<p><em>Teacher:</em> And that’s another thing. Peoples lives are easier, but they are more angry. An army of Internet warriors spend all their time picking fights online.</p>
+
+<p>This problem is worst in what you call the first world. Rich countries, with long lives and  good incomes are the most miserable. People are depressed, thy hate their lives, their work, yet when they retire, they hate retirement and die within a few years. People don’t know what the purpose of their life is, and look to other people or the social media to tell them what to do.</p>
+
+<p><em>Me:</em> It is no better in 3rd world countries. In India, where I was born, people run after Gurus and astrologers to make their life easy. People go to Gurus not to get wisdom, but to find out when they will get a promotion, or when their evil mother in law will die.</p>
+
+<p><em>Teacher:</em> Yes, this problem has existed for thousands of years. Self help experts have replaced astrologers in the West, though they work on same principles.</p>
+
+<p><em>Me:</em> Ahem! Someone might get offended, and send me hate mail.</p>
+
+<p><em>Teacher:</em> And you think The Teacher cares?</p>
+
+<p><em>Me:</em> Well, you don’t. You don’t have an email.</p>
+
+<p><em>Teacher:</em> Haha! But I do care.</p>
+
+<p>Let them hate. I’m not saying self help experts or astrologers don’t work. The problem is, they MIGHT work, which makes it worse.</p>
+
+<p><em>Me:</em> Worse how?</p>
+
+<h2 id="why-suffering-is-necessary">Why Suffering is Necessary</h2>
+
+<p>Or: <em>How suffering is the best gift the Universe gives to us</em></p>
+
+<p><em>Teacher:</em>  All the things humans have invented, all their superstitions, from astrology to God…</p>
+
+<p><em>Me:</em> Ahem. God? You trying to start a flamewar here?</p>
+
+<p><em>Teacher:</em> Yes, God. What most people worship as God is a mental projection of their own sick mind. This God is angry, hateful and vengeful. You have had an experience of the divine, S. Did you find the experience angry or hateful?</p>
+
+<p><em>Me:</em> No. if anything, it was very peaceful and joyful. No divisions, no hate, just oneness with Love and Being. But it didn’t last.</p>
+
+<p><em>Teacher:</em> That is a story for another day.</p>
+
+<p>People have invented all sort of things to run away from misery. They hate their pain, and would do anything to avoid it. If the pain goes away, they thank some imaginary God. If it doesn’t, they scream at God, and pretend to be atheists. Am I on the right track, S?</p>
+
+<p><em>Me:</em> A little too close to home.</p>
+
+<p><em>Teacher:</em> <em>Laughs</em>. Worry not, the Universe is full of Love and giving, but it cannot give what it doesn’t receive. But today we are talking about suffering, and why it is so necessary. Why it is in fact, a gift to humankind.</p>
+
+<p><strong>The problem of most spiritual (and unspiritual) people</strong></p>
+
+<p>Many people spend years meditating. One person has chanted a mantra a million times, another has been doing Vipassna for 20 years, a third has been teaching meditation for 10 years, and practicing for 30.</p>
+
+<p>And yet these people haven’t reached “it”. They are still miserable in their inner life, though they might try to act all spiritual and holy to others.</p>
+
+<p>Why is this?</p>
+
+<p>Why do people spend years meditating with nothing to show for it?</p>
+
+<p><em>Me:</em> (Interlude) I myself spent 7-8 years meditating for 3-4 hours a day. I would get up at 5 in the morning, do 2 hours of meditation, and another 2 hours before sleeping. Did this for almost 8 years, had no effect, became disillusioned and gave up. Spent the next 7 years as a hard core atheist.</p>
+
+<p><em>Teacher:</em> Yes. What you don’t realise is, those 7 years spent as an atheist were AS important as the years spent meditating. Because it was in this 7 years that the lessons you had only been <em>reading</em> about were turned into practical advice, often WITHOUT your conscious knowledge.</p>
+
+<p>What turned you back to meditation?</p>
+
+<p><em>Me:</em> Intense suffering. Lost my job, company screwed me out of benefits, having only 1-2 months money to live, and all job interviews turning bad.</p>
+
+<p><em>Teacher:</em> Yes. And that’s what is needed. Intense suffering.</p>
+
+<p>The problem is the ego. You read the Gita, you read the Dhampadda, you read the Koran or whatever, and the ego takes over the message. It takes the message and interprets it according to its own worldview.</p>
+
+<p>You have read how the Vedanta and the Course in Miracle say the world is a dream. They don’t mean the world is not real, rather the world YOU SEE in NOT REAL.</p>
+
+<p>You project your own thoughts on to the world.</p>
+
+<p><em>Me:</em> What does that mean?</p>
+
+<p><em>Teacher:</em> It’s like an angry man thinks the whole world is angry. Or an over-sexed man thinks the woman are deliberately trying to tempt him. In both the cases, the problem lies inside the person, but they project it on to the world. Suddenly, it is the fault of someone out there that I am so angry / hateful / jealous.</p>
+
+<p>We rarely see the REAL world. Instead, we see the projection our own mind and thoughts. The mind interprets everything it sees.</p>
+
+<p>So the sun is shining, and the mind says “It is too hot! Why can’t it be cooler?”</p>
+
+<p>It is raining, the mind says “It is always raining, what bloody awful weather, I wanted to go for a walk.”</p>
+
+<p>In both the case, the sun or the rain are neutral, and yet the mind has interpreted them to be enemies.</p>
+
+<p>That’s what the ego does to remain in control. It will read the religious scriptures, but rather than be changed by the book, it will try to co-opt the message.</p>
+
+<p>And that is why you can have people reading about Jesus, a man who forgave even those who killed him, and interpret his teachings to start wars, or torture people, or enslave another race. In each case, the mind sees no contradiction, because the ego always convinces you You are doing the right thing. How can you be wrong? You are so spiritual!</p>
+
+<p>Yet, you cannot fool the Universe.</p>
+
+<p>That’s where suffering comes in. Suffering is a told ro crush the ego, to smash it to bits. Only when you are feeling completely helpless, when you realise you are out of your depth, when you realise that all your plans have failed, only then can you be open to the SPIRIT.</p>
+
+<p>Only then can you say: “I have been wrong all along. I DO NOT UNDERSTAND ANYTHING. Please teach me.”</p>
+
+<p>And that’s when the universe can really help you. What have I told you about meditation?</p>
+
+<p><em>Me:</em> That real meditation is getting the mind to just SHUT UP for two minutes, so the Divine experience can roll in.</p>
+
+<p><em>Teacher:</em> (laughs) Exactly. Suffering does the same thing, except in a more permanent and long lasting way. For most people, suffering is the only way they will awake. It’s not a matter of getting them to start meditating, or getting them to join your church, or follow your Guru, or whatever else silly steps most over zealous humans try to do.</p>
+
+<p>They may follow your Church or your Guru, but then they’ll end up as stupid as everyone else in that Gurudom/Church.</p>
+
+<p>No, the solution is that they need to go through their own bout of suffering. Their ego needs to be crushed, and throughly.</p>
+
+<h2 id="the-insane-ego">The Insane Ego</h2>
+
+<p>Each one of us carries the seeds of insanity within us. We are, truth be told, totally insane.</p>
+
+<p>The only reason we get away with it is because other people are as insane as us, if not more.</p>
+
+<p>What do I mean by this?</p>
+
+<p>If you look at your mind, really look at it, you will see it acts like a mad person.</p>
+
+<p>One part of your mind will say: I need to lose weight. Another will say: Maybe, but first let’s have this delicious donut.</p>
+
+<p>And once you have that donut, the same mind will then shame you. “You disgusting fat pig! Have you no self control!”</p>
+
+<p>It’s like we have multiple personalities within us, all out to get us.</p>
+
+<p>If you saw a person walking on the street, talking to themselves, screaming insults, would you not decide they are a little crazy and avoid them?</p>
+
+<p>And yet, what do you do? Do you not do the same? You may not shout loudly, but you are talking to yourself in your head, constantly judging yourself and others, constantly looking to either attack or defend yourself from imagined slights.</p>
+
+<p>This is what is caused in spiritual lingo the Ego. It is an insane part of you, the part of you that talks to itself, the non-stop stream of thinking / judging / analysing that all of us go through.</p>
+
+<p>And like we have said before, ego LIKES to be in CONTROL. And so it constantly creates situations that increase drama in our life, so that there is always stress, always something going wrong.</p>
+
+<p>You want your dream job, and you get it. And the ego will start telling you how bad your boss is, how you could do better. Or now it wants an even higher paying job. The ego is never satisfied, because the ego is born of strife, and if your life became peaceful, the ego would have to die.</p>
+
+<p>Sometimes, the ego doesn’t even need an excuse. It will look at something stressful in your life and try to blame you for it. You have an example, don’t you, S? from our last talk?</p>
+
+<p><em>Me:</em> Yes. I was guilty as I hadn’t meditated for a few days, and then some problem at work came up. And my mind said: Aha! You didn’t meditate, now God is punishing you.</p>
+
+<p><em>Teacher:</em> Yes. And I told you the Universe doesn’t work like that. It doesn’t work by shaming or attacking you. The Universe WANTS YOU TO BE HAPPY ABOVE ALL ELSE. It would rather you remained unspiritual and happy than a miserable spiritual person.</p>
+
+<p>And remember what I told you about how to deal with the problem at work?</p>
+
+<p><em>Me:</em> You said to remain calm and trust the Spirit, and that the solution would present itself. And it did. But I would never have found it if I had been stuck in a cycle of self shaming.</p>
+
+<p><em>Teacher:</em> self shaming. Yes, that’s how the ego works, constantly attacking and belittling you.</p>
+
+<p><em>Me:</em> We have been taught that if we are too happy, “they” will get us, will bring us down a notch; where they can be Karma, God, other people, energies etc.</p>
+
+<p><em>Teacher:</em> And now you know: Being happy, being joyful, is your birth right, and the universe wants you to be happy.</p>
+
+<p>Question time: If the Universe (call it Spirit or God or Being) wants to help us, why do our prayers often go unheard?</p>
+
+<p><em>Me:</em> Ummm, the phone line is bad? God is in the shower when we call?</p>
+
+<p><em>Teacher:</em> Yes, he is always in the shower, as many humans never get through to him!</p>
+
+<p>Rather, it is the humans who have difficulty listening. You must know why by now.</p>
+
+<p><em>Me:</em> (Pretend to act real smart and wise).</p>
+
+<p><em>Teacher:</em> Because most human problems are created by the ego. They are created by your own mind, and the solution is ALSO IN YOUR OWN MIND.</p>
+
+<p>All that the Universe can do is guide you out of the hell YOU created. It does so by giving you wisdom to see how you are responsible for your own misery, and then guiding you out of that misery.</p>
+
+<p><em>Me:</em> What about things like, when people need money, or are poor?</p>
+
+<p><em>Teacher:</em> You faced a financial crisis when you lost your job. You were miserable then. If God had given you a million dollars, would that have solved your problems?</p>
+
+<p><em>Me:</em> Not really. I would have found something else to be miserable about J</p>
+
+<p><em>Teacher:</em> Exactly. The Inner Teacher or Guide helps us by giving us what we really want.</p>
+
+<p>Normally, we say things like “I want more money, or I want true love”. You may fool others with these words, but you don’t fool the Universe. It knows that even if you get your pay rise or “true love”, you will find a reason to complain, to start looking at other men/women soon.</p>
+
+<p>And that’s why most prayers go unanswered: because you ask for things that do not make sense, and WOULD NOT MAKE YOU HAPPY. But that does not mean the prayer is not heard, <strong>it always is</strong>. Just that the Inner Teacher reserves the teaching for you, and tries to guide you to what YOU ACTUALLY NEED.</p>
+
+<h2 id="most-suffering-is-resistance-to-the-present">Most Suffering is Resistance to the Present</h2>
+
+<p>You have in your mind a mental idea of how the universe should work and how it should treat you. You need to be a millionaire by 30, have a sexy partner who listens to your every desire, but who in turn wants nothing from you.</p>
+
+<p>And you get angry when your desire are not fulfilled.</p>
+
+<p>Here is the thing though: the Universe always gives you MORE THAN YOU NEED. It is only your own resistance that either stops the universes gifts, or makes you miserable.</p>
+
+<p><em>Me:</em> How stop the universe’s gifts?</p>
+
+<p><em>Teacher:</em> You can only accept as much as you are open. If you trust the system, if you are willing to let go, if you are willing to show your fellow brothers and sisters the same Love YOU expect from the Universe, then the Universe can reward you.</p>
+
+<p>If you are full of anger and hate and jealousy, you block the Love of Being, which means you suffer.</p>
+
+<p><em>Me:</em> Does that mean poor people, or people in 3rd world countries are all blocking the light?</p>
+
+<p><em>Teacher:</em> But are they suffering? It is only your ego that thinks so. Many of the poorest people in the world are also the happiest. Some are miserable sods, but then you can’t please everyone.</p>
+
+<p><em>Me:</em> HA!</p>
+
+<p><em>Teacher:</em> The Universe always gives you MORE than YOU NEED. That is the key fact. Whether it is money, sex, houses/cars, the Universe has your back. Unless you block the energy of the Being from flowing through you.</p>
+
+<p>One way you can do that is by forcing your own opinions on the World. “The world should be like this” or “I have been meditating for 7 years, I deserve to get enlightened by now, dammit!”</p>
+
+<p><em>Me:</em> Yeah, I don’t know who you are talking about now. I will swear in court I never said that.</p>
+
+<p><em>Teacher:</em> Haha. Where does all the misery in the life of humans comes from?</p>
+
+<p><em>Resistance to the Present.</em></p>
+
+<p>Don’t believe me? Give me a few examples when you, or anyone else you know or read or heard about, could be miserable. Go on. Give us 5-8 examples.</p>
+
+<p><em>Me:</em>  you sure, buddy? Cause I will throw some tricky ones out.</p>
+
+<p><em>Teacher:</em> Hit me.</p>
+
+<p><em>Me:</em> Ok. In no particular order:</p>
+
+<ul>
+  <li>
+    <p>Losing job, or about to</p>
+  </li>
+  <li>
+    <p>Facing bankruptcy, imminent</p>
+  </li>
+  <li>
+    <p>Not finding love</p>
+  </li>
+  <li>
+    <p>Hating person you are married to</p>
+  </li>
+  <li>
+    <p>Boss hates you, job sucks, pay is terrible, you can’t find another job</p>
+  </li>
+  <li>
+    <p>Pinky and the Brain cancelled on TV</p>
+  </li>
+</ul>
+
+<p>Umm, that’s it, I think.</p>
+
+<p><em>Teacher:</em> Good.</p>
+
+<p>Let’s look at these. Most of these examples, and any else you could think of, have to do with losing something.</p>
+
+<p>Losing your job, or your lifestyle, your home, your family; in case of not finding love or perfect job.</p>
+
+<p>In either case, you have a mental idea of something that should happen (or not happen) to make you happy.</p>
+
+<p>If I don’t find a perfect job, I won’t be happy. If I lose my current job, I wont be happy. If this, if that, or this or that, THEN I won’t/will be happy.</p>
+
+<p>You do not understand the present. You live either in the past or future.</p>
+
+<p><em>Me:</em> HA! I have heard this <em>Live in the present</em> bull crap before. But what happens if you are facing bankruptcy like tomorrow? How do you live in the moment then?</p>
+
+<p><em>Teacher:</em> Tomorrow is still a day away, isn’t it? Why are you worried about tomorrow today?</p>
+
+<p>And it is possible you will be bankrupt. You might lose your savings.</p>
+
+<p>But you must have trust that the Universe will provide for you. That is where the Gift of Suffering comes in. It does not come to punish. The Universe, or God or Being, DOES NOT TEACH BY PAIN.</p>
+
+<p>That is your own ego. It creates situations for you to suffer, and then it gleefully enjoys itself while it blames you.</p>
+
+<p>If you ever face a situation where you are facing bankruptcy, your partner is leaving you, and all his going to hell, remember: YOU CREATED THIS SITUATION.</p>
+
+<p>I know, harsh. But true. Maybe not at a conscious level, but the ego is rarely under your conscious control.</p>
+
+<p>The solution then is no to blame, to get angry, or to worry. It is to stay in THIS MOMENT, and ask the Inner Teacher for help. Ask your Guide for help.</p>
+
+<p>The Universe will always give you a way out. It will always give back anything you lost. Give your own example, S.</p>
+
+<p><em>Me:</em> Well, my previous company screwed me out of tens of thousands of pounds of redundancy pay. I trusted the Universe to guide me, and I have gotten, or will soon get, most of that money. MORE, in fact. The Universe is returning the money I lost WITH INTEREST. Lots of interest, as I’m getting many multiples back, thanks to a job with a bonus scheme.</p>
+
+<p>So thank you, Teacher, your advice to be patient and trust the system was right. BUT, there were a painful few months that had me crying in tears everyday. It was a very stressful time; and though you told me nothing would harm me, I was still terrified.</p>
+
+<p><em>Teacher:</em> And that is the Gift of Suffering. It gives you a bigger perspective, a Higher View, as it were. It shows you how mundane, how tiny, the problems of daily life are. How there is a huge OCEAN OF LOVE looking out for us EVERY SECOND. And yet, we humans turn our back on this ocean, and try to pretend we are all alone, that our problems are ours to solve alone.</p>
+
+<p>If only we open our Hearts, the Ocean WILL Flow thru us, spreading its Love throughout our Being. In that point, there are no problems, no pain, no suffering.</p>
+
+<p>If you are still struggling in the mundane world, the Ocean has the solution for you. As the Course in Miracles says:</p>
+
+<p><em>The solution to every problem is created at the same time as the problem arises.</em></p>
+
+<p>We just have to be attuned to the Universe to listen to this answer. S, you had an experience of the Ocean, didn’t you? Share it?</p>
+
+<p><em>Me:</em> Well, I was watching this movie where a mother dies, leaving a little baby alone. And it made me sad.</p>
+
+<p>I went out for a walk, and this Realisation hit me. Literally, hit me like a bus. It was an experience I can’t explain, but let me try.</p>
+
+<p>I Realised that the world is a Place of Joy, not in spite of suffering, BUT BECAUSE OF IT.</p>
+
+<p>Because no matter how much you suffer, you can, at any time, LITERALLY ANY TIME, turn to an Ocean of Love, a calm loving presence, called God, Spirit, Being, whatever; and that all your sorrows and little pains melt away when the sun like light of Love falls on you.</p>
+
+<p>Like I said, this was a spiritual experience, and most people will not be able to realise this in their own lives. But the path is open to them.</p>
+
+<p><em>Teacher:</em> It always is, to everyone. Everyone, no matter how evil your society thinks they have been, murderers, rapists, lifelong criminals, psychopaths, each of us is equal in Being.</p>
+
+<p>All of us have the SAME chance to feel the Love And Joy of Being, if ONLY we are willing to open our Hearts.</p>
+
+<p>Most people cannot open their hearts. They think love means sexual love, or even worse, sexual attraction, or selfish controlling emotions masquerading as love.</p>
+
+<p>And that is why they need the Gift of suffering. Because suffering, as seen by the ego, is the best way to cut through millions of layers of bullshit created by the ego…</p>
+
+<p><em>Me:</em> Haha, you aid bullshit. Not very Guru like.</p>
+
+<p><em>Teacher:</em> Nope. That’s why never won Guru of the Year Award, or Most Popular Spiritual Person in the World Award. J</p>
+
+<p>So suffering can cut thru the layers of ignorance created by the ego, and show you YOUR TRUE SELF.</p>
+
+<p>It puts you in touch with the universe. It shows you YOU DON’T NEED to struggle ALONE. That you can ask for, and will receive, whatever you need and desire.</p>
+
+<p>So don’t run from suffering. Don’t try to avoid the bad times. Don’t try to be positive all the time.</p>
+
+<p><em>Me:</em> Being positive is the new religion. People get blamed for everything, like falling sick, saying they weren’t positive enough.</p>
+
+<p><em>Teacher:</em> And there may be a kernel of truth in that, but it becomes harmful when it becomes an instrument of shaming, which is what the ego usually does. ‘It is your fault for falling sick / losing your job, as you should have been more positive’ is the classic way the ego tries to keep you in check.</p>
+
+<p>Note there is a simple check to see who you are listening to / taking advice from.</p>
+
+<p>Ego: Will make you feel depressed, shit, lazy, unwilling to work, Feel like “What’s the use of anything.”</p>
+
+<p>The Inner Teacher / Spirit: Will have a loving and kind voice though very silent.</p>
+
+<p>Will make you feel calm, loving, and willing to act in the world without selfishness.</p>
+
+<p>You can only serve one master, like the Bible says. Choose carefully.</p>
+
+<p>And remember this: SUFFERING IS A CHOICE.</p>
+
+<p>You suffer because you listen to the ego, and it drives you insane. Once you realise that there is something bigger than you looking out for you, there will be no need to get sad or depressed, because YOU WILL KNOW, at your deepest level, that you are not alone, that the Ocean of Love is looking out for you.</p>
+
+<p>This is NOT an intellectual understanding, you must FEEL this in the deepest part of your Being.</p>
+
+<p>Until you can do so, you might need Suffering as a Teacher. But don’t worry, it is a teacher that will soon be gone, once your Real Teacher, The Spirit, comes forward.</p>
+
+<p>And that’s when the end of suffering will began.</p>
+
+;
+T;@!;@!o;;;;	I"/money-spiritual-life.md;
+T{;{
+;U;[0I"�"<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New Nanoc Site - </title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.9.3">
+
+    
+  </head>
+  <body>
+    <div id="main">
+      <h1 id="is-it-possible-to-be-rich-enjoy-the-material-life-and-still-be-spiritual">Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?</h1>
+
+<p><em>Me</em>: <em>Teacher</em>, the general belief amongst spiritual types is that money is evil, money is bad.</p>
+
+<p>They try to lead simple lives, and have been told again and again and again that running after the materialistic world is the cause of their problems.</p>
+
+<p>This leads to a feeling that being poor is more spiritual, and even better, one should become a monk, living frugally. Is there any truth to this? Can one be both spiritual and rich / well off?</p>
+
+<p><em>Teacher</em>: This is one of things that has caused a lot of has caused a lot of harm in spiritual students.</p>
+
+<p>While it is true that attachment to the material world is the cause of most of your problems, the solution is not running away from the world.</p>
+
+<p>There is such a thing as negative attraction to wealth, sex, and all other things the spiritual types run away from.</p>
+
+<p>Negative attraction because they are constantly in fear of what they are running from. It is like some monks wont even tough money. When walking around, so you think they are thinking of God, or avoiding touching money?</p>
+
+<p><em>Me</em>: Money.</p>
+
+<p><em>Teacher</em>: Exactly. It’s like the Buddhist tale. 2 monks had taken a vow of celibacy, including not even touching a woman.</p>
+
+<p>Once, they were crossing a flooded river, when a old woman begged them to help her cross as well. She said she was weak and had to reach her village, as her grandchildren were all alone.</p>
+
+<p>The first monk ignored her, but the second one lifted her and took her across.</p>
+
+<p>The two monks then walked another three days till they reached the monastery. As soon as they did so, the first monk ran in to the head monk and complained the second one had touched a woman.</p>
+
+<p>“Brother”, said the second monk, “I left that woman three days ago, and you have still been carrying her in your head.”</p>
+
+<p>Let’s get one thing right: Whether you run towards money or away from it, there is no difference spiritually.</p>
+
+<p>Whether you are obsessed with sex, or force yourself into abstinence, there is no difference spiritually.</p>
+
+<p>There is nothing spiritual about being a millionaire or a beggar. One can be as, or more, spiritual than the other.</p>
+
+<p>When most people think the material world is evil, they are in a state of negative attraction to it. They are still obsessed by the world, except now they can pretend they are spiritual.</p>
+
+<p><em>Me</em>: What should our attitude to the material world be, <em>Teacher</em>?</p>
+
+<p><em>Teacher</em>: Listen carefully, for it might go against what ask your religions and holy types have told you.</p>
+
+<p>The Universe, Existence, Spriit, call it what you want, DOES NOT CARE AT ALL about the material world.</p>
+
+<p>Which means it is happy for you to enjoy the material world.</p>
+
+<p>You can enjoy money, sex, big houses and big cars; there is no harm, and NOTHING unspiritual.</p>
+
+<p>But enjoy it with the feeling that it is a gift; all these things do not belong to you, but have merely been lent to you for a small time. <em>Enjoy them while they last, and wave them goodbye when they are gone.</em></p>
+
+<p>Do not cry for money, but don’t hate people who have it. You must have a sense of gratitude and respect for the material world.  You live in this world, so you must honour it. Honour your body, honour the natural world, the trees, the grass, the sky, the clouds. But also honour the fleeting pleasures of life, like money, beauty and other outer pleasures.</p>
+
+<p>These outer material pleasures will not give you ever lasting happiness, but then they are not supposed to.</p>
+
+<p>Like that talk you listened to by Elkhart Tolle: If the whole world was green, the word <em>green</em> would have no meaning. We only know green because of the contrast in colours.</p>
+
+<p>Similarly we can only know of the infinite, the Deathless, the Divine, because it contrasts with the fleeting momentary pleasures of this life.</p>
+
+<p>Listen with attention, S. This is where our teaching diverges from most traditions. They will say that because the material world is temporary, we must avoid it, or at least not enjoy it, as these traditions believe we will get stuck in the world.</p>
+
+<p>We do not believe that, and there have been a few brave traditions that said you can enjoy both the material AND the spiritual world. And why not??</p>
+
+<p>You must remember your essence as the undying, as the infinite, as the Being that lives beyond Time and Space.</p>
+
+<p>BUT</p>
+
+<p>At the same time, you must accept the Being is trying to manifest through THIS BODY at THIS POINT IN TIME AND SPACE.</p>
+
+<p>To insult the material world, to treat it as dirty or unholy or un-spiritual is to insult the Divine that is trying to flower, to manifest THRU the material world.</p>
+
+<p>As the Upanishad says:</p>
+
+<p><em>They go to a dark place who worship ignorance,
+But a darker hell waits for those who worship the Light</em></p>
+
+<p>(My own translation, from memory).</p>
+
+<p>Most people are stuck in the material world, and think there is nothing beyond what they can see with their senses.</p>
+
+<p>Some people go beyond the manifest world, but then get stuck in the Spiritual world. They get stuck in heaven, as it were.</p>
+
+<p>None of these paths are for us. We must live in this world and enjoy it. Why suffer? Why live in poverty? There is enough abundance in this world to make everyone happy PROVIDED they are open to the light.</p>
+
+<p>I know what you are thinking about now?</p>
+
+<p><em>Me</em>: You do? Golly, you must be psychic.</p>
+
+<p><em>Teacher</em>: Even better. I don’t read your mind; I don’t need to. Instead, I know I AM YOU, just as you are <em>Me</em>. The only difference is, you do not realise this at the moment. Just intellectual knowledge isn’t enough.</p>
+
+<p>You are wondering why everyone isn’t happy, why there is suffering in the world, and whether the law of karma is real, and whether people are being punished for their sins; and how could God, if s/he exists, allow this?</p>
+
+<p><em>Me</em>: I was wondering about this. You have often said to <em>Me</em> that the universe wants us all to be happy, and is willing to give us wealth / money if we want. So why are people struggling?</p>
+
+<p><em>Teacher</em>: The short answer is that the Universe does not interfere in our Free Will. Hard to accept, but the reason we suffer is because we turn our back to the universe, and stop the Love of Being from flowing through us. Until we are ready to show the same Love to our fellow brothers/sisters that we get from the Being, we will never be happy. And the Universe wants us to be happy over everything else.</p>
+
+<p>It’s not that the Universe is not willing to give us enough money to lead a happy life; it’s that WE HAVE BLOCKED THE LIGHT OF BEING, which means the universe	can no longer flow through us, and hence no longer share its gifts with us.</p>
+
+<p><strong>WE block the light, WE invite our suffering</strong>. <em>Note 1</em></p>
+
+<p>A second answer is that the Universe always gives us what we need to grow spiritually. And for most people, that is suffering.</p>
+
+<p>But worry not, suffering is the best <em>Teacher</em>.  The Gift of Suffering is the best gift the Spirit / Being / God can give us, as we will talk in next lecture.</p>
+
+<p>Note 1: and for people who will complain: <em>But what about the starving children in Africa, are you saying it is their fault?</em> To which I will quote Marianne Williamson: The reason those children are starving is not THEIR fault, but OURS. We are the ones who let them starve, the ones who look away, trying to lead our own merry lives. We should stop blaming God or Karma or other such bullshit for the misery of the world, and accept that WE ARE RESPONSIBLE for everything wrong with the world. We are the Masters of this World, after all, not helpless victims.</p>
+
+    </div>
+    <div id="sidebar">
+      <h2>Documentation</h2>
+      <ul>
+        <li><a href="http://nanoc.ws/doc/">Documentation</a></li>
+        <li><a href="http://nanoc.ws/doc/tutorial/">Tutorial</a></li>
+      </ul>
+      <h2>Community</h2>
+      <ul>
+        <li><a href="http://groups.google.com/group/nanoc/">Discussion group</a></li>
+        <li><a href="https://gitter.im/nanoc/nanoc">Gitter channel</a></li>
+        <li><a href="http://nanoc.ws/contributing/">Contributing</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+;
+T;U;[I"/C:/st/path/content/money-spiritual-life.md;
+TI"5# Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?
+
+*Me*: *Teacher*, the general belief amongst spiritual types is that money is evil, money is bad.
+
+They try to lead simple lives, and have been told again and again and again that running after the materialistic world is the cause of their problems.
+
+This leads to a feeling that being poor is more spiritual, and even better, one should become a monk, living frugally. Is there any truth to this? Can one be both spiritual and rich / well off?
+
+*Teacher*: This is one of things that has caused a lot of has caused a lot of harm in spiritual students.
+
+While it is true that attachment to the material world is the cause of most of your problems, the solution is not running away from the world.
+
+There is such a thing as negative attraction to wealth, sex, and all other things the spiritual types run away from.
+
+Negative attraction because they are constantly in fear of what they are running from. It is like some monks wont even tough money. When walking around, so you think they are thinking of God, or avoiding touching money?
+
+*Me*: Money.
+
+*Teacher*: Exactly. It's like the Buddhist tale. 2 monks had taken a vow of celibacy, including not even touching a woman.
+
+Once, they were crossing a flooded river, when a old woman begged them to help her cross as well. She said she was weak and had to reach her village, as her grandchildren were all alone.
+
+The first monk ignored her, but the second one lifted her and took her across.
+
+The two monks then walked another three days till they reached the monastery. As soon as they did so, the first monk ran in to the head monk and complained the second one had touched a woman.
+
+"Brother", said the second monk, "I left that woman three days ago, and you have still been carrying her in your head."
+
+
+
+Let's get one thing right: Whether you run towards money or away from it, there is no difference spiritually.
+
+Whether you are obsessed with sex, or force yourself into abstinence, there is no difference spiritually.
+
+There is nothing spiritual about being a millionaire or a beggar. One can be as, or more, spiritual than the other.
+
+When most people think the material world is evil, they are in a state of negative attraction to it. They are still obsessed by the world, except now they can pretend they are spiritual.
+
+*Me*: What should our attitude to the material world be, *Teacher*?
+
+*Teacher*: Listen carefully, for it might go against what ask your religions and holy types have told you.
+
+The Universe, Existence, Spriit, call it what you want, DOES NOT CARE AT ALL about the material world.
+
+Which means it is happy for you to enjoy the material world.
+
+You can enjoy money, sex, big houses and big cars; there is no harm, and NOTHING unspiritual.
+
+But enjoy it with the feeling that it is a gift; all these things do not belong to you, but have merely been lent to you for a small time. *Enjoy them while they last, and wave them goodbye when they are gone.*
+
+Do not cry for money, but don't hate people who have it. You must have a sense of gratitude and respect for the material world.  You live in this world, so you must honour it. Honour your body, honour the natural world, the trees, the grass, the sky, the clouds. But also honour the fleeting pleasures of life, like money, beauty and other outer pleasures.
+
+These outer material pleasures will not give you ever lasting happiness, but then they are not supposed to.
+
+Like that talk you listened to by Elkhart Tolle: If the whole world was green, the word *green* would have no meaning. We only know green because of the contrast in colours.
+
+Similarly we can only know of the infinite, the Deathless, the Divine, because it contrasts with the fleeting momentary pleasures of this life.
+
+Listen with attention, S. This is where our teaching diverges from most traditions. They will say that because the material world is temporary, we must avoid it, or at least not enjoy it, as these traditions believe we will get stuck in the world.
+
+We do not believe that, and there have been a few brave traditions that said you can enjoy both the material AND the spiritual world. And why not??
+
+You must remember your essence as the undying, as the infinite, as the Being that lives beyond Time and Space.
+
+BUT
+
+At the same time, you must accept the Being is trying to manifest through THIS BODY at THIS POINT IN TIME AND SPACE.
+
+To insult the material world, to treat it as dirty or unholy or un-spiritual is to insult the Divine that is trying to flower, to manifest THRU the material world.
+
+As the Upanishad says:
+
+*They go to a dark place who worship ignorance,
+But a darker hell waits for those who worship the Light*
+
+(My own translation, from memory).
+
+Most people are stuck in the material world, and think there is nothing beyond what they can see with their senses.
+
+Some people go beyond the manifest world, but then get stuck in the Spiritual world. They get stuck in heaven, as it were.
+
+None of these paths are for us. We must live in this world and enjoy it. Why suffer? Why live in poverty? There is enough abundance in this world to make everyone happy PROVIDED they are open to the light.
+
+I know what you are thinking about now?
+
+*Me*: You do? Golly, you must be psychic.
+
+*Teacher*: Even better. I don't read your mind; I don't need to. Instead, I know I AM YOU, just as you are *Me*. The only difference is, you do not realise this at the moment. Just intellectual knowledge isn't enough.
+
+You are wondering why everyone isn't happy, why there is suffering in the world, and whether the law of karma is real, and whether people are being punished for their sins; and how could God, if s/he exists, allow this?
+
+*Me*: I was wondering about this. You have often said to *Me* that the universe wants us all to be happy, and is willing to give us wealth / money if we want. So why are people struggling?
+
+*Teacher*: The short answer is that the Universe does not interfere in our Free Will. Hard to accept, but the reason we suffer is because we turn our back to the universe, and stop the Love of Being from flowing through us. Until we are ready to show the same Love to our fellow brothers/sisters that we get from the Being, we will never be happy. And the Universe wants us to be happy over everything else.
+
+It's not that the Universe is not willing to give us enough money to lead a happy life; it's that WE HAVE BLOCKED THE LIGHT OF BEING, which means the universe	can no longer flow through us, and hence no longer share its gifts with us.
+
+**WE block the light, WE invite our suffering**. *Note 1*
+
+ A second answer is that the Universe always gives us what we need to grow spiritually. And for most people, that is suffering.
+
+But worry not, suffering is the best *Teacher*.  The Gift of Suffering is the best gift the Spirit / Being / God can give us, as we will talk in next lecture.
+
+Note 1: and for people who will complain: *But what about the starving children in Africa, are you saying it is their fault?* To which I will quote Marianne Williamson: The reason those children are starving is not THEIR fault, but OURS. We are the ones who let them starve, the ones who look away, trying to lead our own merry lives. We should stop blaming God or Karma or other such bullshit for the misery of the world, and accept that WE ARE RESPONSIBLE for everything wrong with the world. We are the Masters of this World, after all, not helpless victims.
+;
+T;U;[0I"�<h1 id="is-it-possible-to-be-rich-enjoy-the-material-life-and-still-be-spiritual">Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?</h1>
+
+<p><em>Me</em>: <em>Teacher</em>, the general belief amongst spiritual types is that money is evil, money is bad.</p>
+
+<p>They try to lead simple lives, and have been told again and again and again that running after the materialistic world is the cause of their problems.</p>
+
+<p>This leads to a feeling that being poor is more spiritual, and even better, one should become a monk, living frugally. Is there any truth to this? Can one be both spiritual and rich / well off?</p>
+
+<p><em>Teacher</em>: This is one of things that has caused a lot of has caused a lot of harm in spiritual students.</p>
+
+<p>While it is true that attachment to the material world is the cause of most of your problems, the solution is not running away from the world.</p>
+
+<p>There is such a thing as negative attraction to wealth, sex, and all other things the spiritual types run away from.</p>
+
+<p>Negative attraction because they are constantly in fear of what they are running from. It is like some monks wont even tough money. When walking around, so you think they are thinking of God, or avoiding touching money?</p>
+
+<p><em>Me</em>: Money.</p>
+
+<p><em>Teacher</em>: Exactly. It’s like the Buddhist tale. 2 monks had taken a vow of celibacy, including not even touching a woman.</p>
+
+<p>Once, they were crossing a flooded river, when a old woman begged them to help her cross as well. She said she was weak and had to reach her village, as her grandchildren were all alone.</p>
+
+<p>The first monk ignored her, but the second one lifted her and took her across.</p>
+
+<p>The two monks then walked another three days till they reached the monastery. As soon as they did so, the first monk ran in to the head monk and complained the second one had touched a woman.</p>
+
+<p>“Brother”, said the second monk, “I left that woman three days ago, and you have still been carrying her in your head.”</p>
+
+<p>Let’s get one thing right: Whether you run towards money or away from it, there is no difference spiritually.</p>
+
+<p>Whether you are obsessed with sex, or force yourself into abstinence, there is no difference spiritually.</p>
+
+<p>There is nothing spiritual about being a millionaire or a beggar. One can be as, or more, spiritual than the other.</p>
+
+<p>When most people think the material world is evil, they are in a state of negative attraction to it. They are still obsessed by the world, except now they can pretend they are spiritual.</p>
+
+<p><em>Me</em>: What should our attitude to the material world be, <em>Teacher</em>?</p>
+
+<p><em>Teacher</em>: Listen carefully, for it might go against what ask your religions and holy types have told you.</p>
+
+<p>The Universe, Existence, Spriit, call it what you want, DOES NOT CARE AT ALL about the material world.</p>
+
+<p>Which means it is happy for you to enjoy the material world.</p>
+
+<p>You can enjoy money, sex, big houses and big cars; there is no harm, and NOTHING unspiritual.</p>
+
+<p>But enjoy it with the feeling that it is a gift; all these things do not belong to you, but have merely been lent to you for a small time. <em>Enjoy them while they last, and wave them goodbye when they are gone.</em></p>
+
+<p>Do not cry for money, but don’t hate people who have it. You must have a sense of gratitude and respect for the material world.  You live in this world, so you must honour it. Honour your body, honour the natural world, the trees, the grass, the sky, the clouds. But also honour the fleeting pleasures of life, like money, beauty and other outer pleasures.</p>
+
+<p>These outer material pleasures will not give you ever lasting happiness, but then they are not supposed to.</p>
+
+<p>Like that talk you listened to by Elkhart Tolle: If the whole world was green, the word <em>green</em> would have no meaning. We only know green because of the contrast in colours.</p>
+
+<p>Similarly we can only know of the infinite, the Deathless, the Divine, because it contrasts with the fleeting momentary pleasures of this life.</p>
+
+<p>Listen with attention, S. This is where our teaching diverges from most traditions. They will say that because the material world is temporary, we must avoid it, or at least not enjoy it, as these traditions believe we will get stuck in the world.</p>
+
+<p>We do not believe that, and there have been a few brave traditions that said you can enjoy both the material AND the spiritual world. And why not??</p>
+
+<p>You must remember your essence as the undying, as the infinite, as the Being that lives beyond Time and Space.</p>
+
+<p>BUT</p>
+
+<p>At the same time, you must accept the Being is trying to manifest through THIS BODY at THIS POINT IN TIME AND SPACE.</p>
+
+<p>To insult the material world, to treat it as dirty or unholy or un-spiritual is to insult the Divine that is trying to flower, to manifest THRU the material world.</p>
+
+<p>As the Upanishad says:</p>
+
+<p><em>They go to a dark place who worship ignorance,
+But a darker hell waits for those who worship the Light</em></p>
+
+<p>(My own translation, from memory).</p>
+
+<p>Most people are stuck in the material world, and think there is nothing beyond what they can see with their senses.</p>
+
+<p>Some people go beyond the manifest world, but then get stuck in the Spiritual world. They get stuck in heaven, as it were.</p>
+
+<p>None of these paths are for us. We must live in this world and enjoy it. Why suffer? Why live in poverty? There is enough abundance in this world to make everyone happy PROVIDED they are open to the light.</p>
+
+<p>I know what you are thinking about now?</p>
+
+<p><em>Me</em>: You do? Golly, you must be psychic.</p>
+
+<p><em>Teacher</em>: Even better. I don’t read your mind; I don’t need to. Instead, I know I AM YOU, just as you are <em>Me</em>. The only difference is, you do not realise this at the moment. Just intellectual knowledge isn’t enough.</p>
+
+<p>You are wondering why everyone isn’t happy, why there is suffering in the world, and whether the law of karma is real, and whether people are being punished for their sins; and how could God, if s/he exists, allow this?</p>
+
+<p><em>Me</em>: I was wondering about this. You have often said to <em>Me</em> that the universe wants us all to be happy, and is willing to give us wealth / money if we want. So why are people struggling?</p>
+
+<p><em>Teacher</em>: The short answer is that the Universe does not interfere in our Free Will. Hard to accept, but the reason we suffer is because we turn our back to the universe, and stop the Love of Being from flowing through us. Until we are ready to show the same Love to our fellow brothers/sisters that we get from the Being, we will never be happy. And the Universe wants us to be happy over everything else.</p>
+
+<p>It’s not that the Universe is not willing to give us enough money to lead a happy life; it’s that WE HAVE BLOCKED THE LIGHT OF BEING, which means the universe	can no longer flow through us, and hence no longer share its gifts with us.</p>
+
+<p><strong>WE block the light, WE invite our suffering</strong>. <em>Note 1</em></p>
+
+<p>A second answer is that the Universe always gives us what we need to grow spiritually. And for most people, that is suffering.</p>
+
+<p>But worry not, suffering is the best <em>Teacher</em>.  The Gift of Suffering is the best gift the Spirit / Being / God can give us, as we will talk in next lecture.</p>
+
+<p>Note 1: and for people who will complain: <em>But what about the starving children in Africa, are you saying it is their fault?</em> To which I will quote Marianne Williamson: The reason those children are starving is not THEIR fault, but OURS. We are the ones who let them starve, the ones who look away, trying to lead our own merry lives. We should stop blaming God or Karma or other such bullshit for the misery of the world, and accept that WE ARE RESPONSIBLE for everything wrong with the world. We are the Masters of this World, after all, not helpless victims.</p>
+;
+T;@/;@/o;;;;	I"/world-dream.md;
+T{;{
+;U;[0I"� <!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New Nanoc Site - </title>
+    <link rel="stylesheet" href="/stylesheet.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="Nanoc 4.9.3">
+
+    
+  </head>
+  <body>
+    <div id="main">
+      <h1 id="is-this-world-just-a-dream-so-can-i-just-drink-beer-and-watch-tv">Is This World Just a Dream? So Can I Just Drink Beer and Watch TV?</h1>
+
+<p>If there is nothing to do, does that <em>Me</em>an I can sit in front of /internet, pants down, <em>Teacher</em>?</p>
+
+<p><em>Teacher:</em> If you want to, yes! Especially if it makes you feel good. Close the door though, you don’t want your wife to see.</p>
+
+<p><em>Me:</em> Hey! Seriously.</p>
+
+<p><em>Teacher:</em> There is nothing to do, nowhere to go. That is correct.</p>
 
 <p>BUT.</p>
 
@@ -144,11 +1952,11 @@ T{;{
 
 <p>When the Teacher says there is nothing to do, just let go, he means let go of your clinging to life. Stop making plans for the future. Stop trying to plan, or even think about what will happen tomorrow or the day after. Just let life happen.</p>
 
-<p>Me: But if I do that, I’ll starve to death. How will I live in the world? How will I make a living?</p>
+<p><em>Me:</em> But if I do that, I’ll starve to death. How will I live in the world? How will I make a living?</p>
 
-<p>Teacher: That’s what your ego thinks. <em>If I stop controlling every single second of life, m y life will be ruined! Boohoohoo!</em></p>
+<p><em>Teacher:</em> That’s what your ego thinks. <em>If I stop controlling every single second of life, m y life will be ruined! Boohoohoo!</em></p>
 
-<p>And the funny thing is, your life is ruined because the ego wil sabotage you. The ego is a cruel task master. If you are about to become successful, it will sabotage you. If you don’t do what it tells you, it will constantly find ways to thwart you. It will look at the smallest mistake you made, blow it all out of proportion, and try to shame you.</p>
+<p>And the funny thing is, your life is ruined because the ego will sabotage you. The ego is a cruel task master. If you are about to become successful, it will sabotage you. If you don’t do what it tells you, it will constantly find ways to thwart you. It will look at the smallest mistake you made, blow it all out of proportion, and try to shame you.</p>
 
 <p>Your own mind that does that to you. One part of you will try to rise you up, ask you to have dreams, to make a jump for it, all the while secretly sabotaging you.</p>
 
@@ -164,23 +1972,23 @@ T{;{
 
 <p>By thinking like this, you stop the flow of Universal Love, without which the Universe IS A cruel and HARD PLACE.</p>
 
-<p>Me: What do you mean by self sabotage by the ego?</p>
+<p><em>Me:</em> What do you mean by self sabotage by the ego?</p>
 
-<p>Teacher: Look at any alcoholic. S/he will, when sober, swear on the lives of their children never to drink again. And yet, just a few hours later, they will be stealing money from those same children just to get a high. You must have examples from your own life?</p>
+<p><em>Teacher:</em> Look at any alcoholic. S/he will, when sober, swear on the lives of their children never to drink again. And yet, just a few hours later, they will be stealing money from those same children just to get a high. You must have examples from your own life?</p>
 
-<p>Me: I want to be loving, but sometimes I’m rude to people I love. I say things that hurt them, sometimes profoundly, and yet later I think: *WHy did I say that? THAT WAS NOT ME. It was like another person took over my body. An insane person.</p>
+<p><em>Me:</em> I want to be loving, but sometimes I’m rude to people I love. I say things that hurt them, sometimes profoundly, and yet later I think: *Why did I say that? THAT WAS NOT ME. It was like another person took over my body. An insane person.</p>
 
-<p>Teacher: Yes, that insanity that comes over most people, including you, is the EGO. It loves misery, and will make every effort to bring more of it. It will say you need the perfect partner and job and house and car to be happy.</p>
+<p><em>Teacher:</em> Yes, that insanity that comes over most people, including you, is the EGO. It loves misery, and will make every effort to bring more of it. It will say you need the perfect partner and job and house and car to be happy.</p>
 
-<p>And yet as soon as you have it all, it will start finding faults. The wife is growing old, or can’t cook, or doesn’t work. The boss is rude, the house needs maintainenace, the car is too expensive to run.</p>
+<p>And yet as soon as you have it all, it will start finding faults. The wife is growing old, or can’t cook, or doesn’t work. The boss is rude, the house needs maintenance, the car is too expensive to run.</p>
 
 <p>And if you don’t achieve your life goals, the ego will say: You loser, you can’t even find a husband/wife, all your friends seem to do so. Stuck at the same dead end job, you are pathetic. What a loser I am!</p>
 
 <p>No matter what the circumstances, the ego will find a way to be miserable and complain. It can never be happy, because the EGO WAS BORN FROM PAIN.</p>
 
-<p>Me: Teacher, what does that mean?</p>
+<p><em>Me:</em> Teacher, what does that mean?</p>
 
-<p>Teacher: The ego is the child of forgetfulness, born when You forget who YOU ARE. You start thinking you are this limited body, or even worse, the thinking mind, with its non stop analysis and attenmpts to tear everything apart.</p>
+<p><em>Teacher:</em> The ego is the child of forgetfulness, born when You forget who YOU ARE. You start thinking you are this limited body, or even worse, the thinking mind, with its non stop analysis and attempts to tear everything apart.</p>
 
 <p>The Pain of /humanity is the pain of not remembering who you are. It is caused by the hidden knowledge that one is bigger than one seems, that a human is more than just body and bones and thoughts. That something survives death. And here we are not talking about what the religious people call the soul, the thing that goes to heaven or hell. Even that is a PART of the DREAM.</p>
 
@@ -194,71 +2002,65 @@ T{;{
 
 <p>Let us come back to our original question: Is there anything to do? Anywhere to go? If we are immortal here, why do we need to meditate?</p>
 
-<p>Me: Ehhhh, if I knew the answer, I wouldn’t be here, would I? I would be sitting on some mountain top, feeling all enlightened.</p>
+<p><em>Me:</em> Ehhhh, if I knew the answer, I wouldn’t be here, would I? I would be sitting on some mountain top, feeling all enlightened.</p>
 
-<p>Teacher: Ha! There is no Internet reception on mountain tops, so maybe not.</p>
+<p><em>Teacher:</em> Ha! There is no Internet reception on mountain tops, so maybe not.</p>
 
 <p>To answer our question: There is nothing for you to do. By you here, I mean the little you, the egoic self, as compared to the big YOU, your True Self.</p>
 
 <p>All meditations, all techniques, all religions (in their true inner form, not the superstitious and ritualistic outer form) aim for one thing: For the little you, the mind, the ego, to shut up for one second, so that the Real Self can come forward.</p>
 
-<p>Me: Us humans cant just shut up, can we?</p>
+<p><em>Me:</em> Us humans cant just shut up, can we?</p>
 
-<p>Teacher: Nope. Well, your minds can’t. :)</p>
+<p><em>Teacher:</em> Nope. Well, your minds can’t. :)</p>
 
 <p>So effort is required, but only as much as to make the mind silent, so the Light of the Self can flow through. Once this starts happening, THEN there is nothing for you to do. The Light will not let you forget, will not let you go back, though you can resist it.</p>
 
-<p>Me: Resist it how?</p>
+<p><em>Me:</em> Resist it how?</p>
 
-<p>Teacher: Many ways for us to go into now. By letting the ego try to control the light, which happens when you try to become a world Guru before you are ready. By letting the ego interpret the Light in its own way, to make itself bigger, as in <em>Oooh lala, I’m so Spiritual</em>. There are a lot of other ways, which will we will discuss another day.</p>
+<p><em>Teacher:</em> Many ways for us to go into now. By letting the ego try to control the light, which happens when you try to become a world Guru before you are ready. By letting the ego interpret the Light in its own way, to make itself bigger, as in <em>Oooh lala, I’m so Spiritual</em>. There are a lot of other ways, which will we will discuss another day.</p>
 
-<p>Me: So I shouldn’t plan on wearing golden robes and calling my self the Saviour</p>
+<p><em>Me:</em> So I shouldn’t plan on wearing golden robes and calling my self the Saviour</p>
 
 <p>Of the World (TM) just yet?</p>
 
-<p>Teacher: Maybe not today :)</p>
+<p><em>Teacher:</em> Maybe not today :)</p>
 
     </div>
-
+    <div id="sidebar">
+      <h2>Documentation</h2>
+      <ul>
+        <li><a href="http://nanoc.ws/doc/">Documentation</a></li>
+        <li><a href="http://nanoc.ws/doc/tutorial/">Tutorial</a></li>
+      </ul>
+      <h2>Community</h2>
+      <ul>
+        <li><a href="http://groups.google.com/group/nanoc/">Discussion group</a></li>
+        <li><a href="https://gitter.im/nanoc/nanoc">Gitter channel</a></li>
+        <li><a href="http://nanoc.ws/contributing/">Contributing</a></li>
+      </ul>
+    </div>
   </body>
 </html>
 ;
-T;U;[I"C:/st/path/content/test.md;
-TI"�Row row ro your boat, gently down the stream,
-
-Merrily merrily merrily,
-
-Life is but a dream
+T;U;[I"&C:/st/path/content/world-dream.md;
+TI"�#Is This World Just a Dream? So Can I Just Drink Beer and Watch TV?
 
  
 
-There was once a prince who dreamed he was a beggar. He was starving in the sun, no one’d to feed.
+If there is nothing to do, does that *Me*an I can sit in front of /internet, pants down, *Teacher*?
 
  
 
-There was once a beggar who dreamed he was a prince.
+*Teacher:* If you want to, yes! Especially if it makes you feel good. Close the door though, you don’t want your wife to see.
 
  
 
- 
-
-What I am writing for? Who am I writing for? Who is my reader? Do I even need to type this? Or anything?
+*Me:* Hey! Seriously.
 
  
 
-If there is nothing to do, does that mean I can sit in front of /internet, pants down, Teacher?
-
- 
-
-Teacher: If you want to, yes! Especially if it makes you feel good. Close the door though, you don’t want your wife to see.
-
- 
-
-Me: Hey! Seriously.
-
- 
-
-Teacher: There is nothing to do, nowhere to go. That is correct.
+*Teacher:* There is nothing to do, nowhere to go. That is correct.
 
  
 
@@ -276,15 +2078,15 @@ When the Teacher says there is nothing to do, just let go, he means let go of yo
 
  
 
-Me: But if I do that, I’ll starve to death. How will I live in the world? How will I make a living?
+*Me:* But if I do that, I’ll starve to death. How will I live in the world? How will I make a living?
 
  
 
-Teacher: That’s what your ego thinks. *If I stop controlling every single second of life, m y life will be ruined! Boohoohoo!*
+*Teacher:* That’s what your ego thinks. *If I stop controlling every single second of life, m y life will be ruined! Boohoohoo!*
 
  
 
-And the funny thing is, your life is ruined because the ego wil sabotage you. The ego is a cruel task master. If you are about to become successful, it will sabotage you. If you don’t do what it tells you, it will constantly find ways to thwart you. It will look at the smallest mistake you made, blow it all out of proportion, and try to shame you.
+And the funny thing is, your life is ruined because the ego will sabotage you. The ego is a cruel task master. If you are about to become successful, it will sabotage you. If you don’t do what it tells you, it will constantly find ways to thwart you. It will look at the smallest mistake you made, blow it all out of proportion, and try to shame you.
 
  
 
@@ -320,23 +2122,23 @@ By thinking like this, you stop the flow of Universal Love, without which the Un
 
  
 
-Me: What do you mean by self sabotage by the ego?
+*Me:* What do you mean by self sabotage by the ego?
 
  
 
-Teacher: Look at any alcoholic. S/he will, when sober, swear on the lives of their children never to drink again. And yet, just a few hours later, they will be stealing money from those same children just to get a high. You must have examples from your own life?
+*Teacher:* Look at any alcoholic. S/he will, when sober, swear on the lives of their children never to drink again. And yet, just a few hours later, they will be stealing money from those same children just to get a high. You must have examples from your own life?
 
  
 
-Me: I want to be loving, but sometimes I’m rude to people I love. I say things that hurt them, sometimes profoundly, and yet later I think: *WHy did I say that? THAT WAS NOT ME. It was like another person took over my body. An insane person.
+*Me:* I want to be loving, but sometimes I’m rude to people I love. I say things that hurt them, sometimes profoundly, and yet later I think: *Why did I say that? THAT WAS NOT ME. It was like another person took over my body. An insane person.
 
  
 
-Teacher: Yes, that insanity that comes over most people, including you, is the EGO. It loves misery, and will make every effort to bring more of it. It will say you need the perfect partner and job and house and car to be happy.
+*Teacher:* Yes, that insanity that comes over most people, including you, is the EGO. It loves misery, and will make every effort to bring more of it. It will say you need the perfect partner and job and house and car to be happy.
 
  
 
-And yet as soon as you have it all, it will start finding faults. The wife is growing old, or can’t cook, or doesn’t work. The boss is rude, the house needs maintainenace, the car is too expensive to run.
+And yet as soon as you have it all, it will start finding faults. The wife is growing old, or can’t cook, or doesn’t work. The boss is rude, the house needs maintenance, the car is too expensive to run.
 
  
 
@@ -348,11 +2150,11 @@ No matter what the circumstances, the ego will find a way to be miserable and co
 
  
 
-Me: Teacher, what does that mean?
+*Me:* Teacher, what does that mean?
 
  
 
-Teacher: The ego is the child of forgetfulness, born when You forget who YOU ARE. You start thinking you are this limited body, or even worse, the thinking mind, with its non stop analysis and attenmpts to tear everything apart.
+*Teacher:* The ego is the child of forgetfulness, born when You forget who YOU ARE. You start thinking you are this limited body, or even worse, the thinking mind, with its non stop analysis and attempts to tear everything apart.
 
  
 
@@ -380,11 +2182,11 @@ Let us come back to our original question: Is there anything to do? Anywhere to 
 
  
 
-Me: Ehhhh, if I knew the answer, I wouldn’t be here, would I? I would be sitting on some mountain top, feeling all enlightened.
+*Me:* Ehhhh, if I knew the answer, I wouldn’t be here, would I? I would be sitting on some mountain top, feeling all enlightened.
 
  
 
-Teacher: Ha! There is no Internet reception on mountain tops, so maybe not.
+*Teacher:* Ha! There is no Internet reception on mountain tops, so maybe not.
 
  
 
@@ -396,11 +2198,11 @@ All meditations, all techniques, all religions (in their true inner form, not th
 
  
 
-Me: Us humans cant just shut up, can we?
+*Me:* Us humans cant just shut up, can we?
 
  
 
-Teacher: Nope. Well, your minds can’t. :)
+*Teacher:* Nope. Well, your minds can’t. :)
 
  
 
@@ -408,40 +2210,30 @@ So effort is required, but only as much as to make the mind silent, so the Light
 
  
 
-Me: Resist it how?
+*Me:* Resist it how?
 
  
 
-Teacher: Many ways for us to go into now. By letting the ego try to control the light, which happens when you try to become a world Guru before you are ready. By letting the ego interpret the Light in its own way, to make itself bigger, as in *Oooh lala, I’m so Spiritual*. There are a lot of other ways, which will we will discuss another day.
+*Teacher:* Many ways for us to go into now. By letting the ego try to control the light, which happens when you try to become a world Guru before you are ready. By letting the ego interpret the Light in its own way, to make itself bigger, as in *Oooh lala, I’m so Spiritual*. There are a lot of other ways, which will we will discuss another day.
 
  
 
-Me: So I shouldn’t plan on wearing golden robes and calling my self the Saviour
+*Me:* So I shouldn’t plan on wearing golden robes and calling my self the Saviour
 
 Of the World (TM) just yet?
 
  
 
-Teacher: Maybe not today :);
-T;U;[0I"�<p>Row row ro your boat, gently down the stream,</p>
+*Teacher:* Maybe not today :);
+T;U;[0I"�<h1 id="is-this-world-just-a-dream-so-can-i-just-drink-beer-and-watch-tv">Is This World Just a Dream? So Can I Just Drink Beer and Watch TV?</h1>
 
-<p>Merrily merrily merrily,</p>
+<p>If there is nothing to do, does that <em>Me</em>an I can sit in front of /internet, pants down, <em>Teacher</em>?</p>
 
-<p>Life is but a dream</p>
+<p><em>Teacher:</em> If you want to, yes! Especially if it makes you feel good. Close the door though, you don’t want your wife to see.</p>
 
-<p>There was once a prince who dreamed he was a beggar. He was starving in the sun, no one’d to feed.</p>
+<p><em>Me:</em> Hey! Seriously.</p>
 
-<p>There was once a beggar who dreamed he was a prince.</p>
-
-<p>What I am writing for? Who am I writing for? Who is my reader? Do I even need to type this? Or anything?</p>
-
-<p>If there is nothing to do, does that mean I can sit in front of /internet, pants down, Teacher?</p>
-
-<p>Teacher: If you want to, yes! Especially if it makes you feel good. Close the door though, you don’t want your wife to see.</p>
-
-<p>Me: Hey! Seriously.</p>
-
-<p>Teacher: There is nothing to do, nowhere to go. That is correct.</p>
+<p><em>Teacher:</em> There is nothing to do, nowhere to go. That is correct.</p>
 
 <p>BUT.</p>
 
@@ -449,11 +2241,11 @@ T;U;[0I"�<p>Row row ro your boat, gently down the stream,</p>
 
 <p>When the Teacher says there is nothing to do, just let go, he means let go of your clinging to life. Stop making plans for the future. Stop trying to plan, or even think about what will happen tomorrow or the day after. Just let life happen.</p>
 
-<p>Me: But if I do that, I’ll starve to death. How will I live in the world? How will I make a living?</p>
+<p><em>Me:</em> But if I do that, I’ll starve to death. How will I live in the world? How will I make a living?</p>
 
-<p>Teacher: That’s what your ego thinks. <em>If I stop controlling every single second of life, m y life will be ruined! Boohoohoo!</em></p>
+<p><em>Teacher:</em> That’s what your ego thinks. <em>If I stop controlling every single second of life, m y life will be ruined! Boohoohoo!</em></p>
 
-<p>And the funny thing is, your life is ruined because the ego wil sabotage you. The ego is a cruel task master. If you are about to become successful, it will sabotage you. If you don’t do what it tells you, it will constantly find ways to thwart you. It will look at the smallest mistake you made, blow it all out of proportion, and try to shame you.</p>
+<p>And the funny thing is, your life is ruined because the ego will sabotage you. The ego is a cruel task master. If you are about to become successful, it will sabotage you. If you don’t do what it tells you, it will constantly find ways to thwart you. It will look at the smallest mistake you made, blow it all out of proportion, and try to shame you.</p>
 
 <p>Your own mind that does that to you. One part of you will try to rise you up, ask you to have dreams, to make a jump for it, all the while secretly sabotaging you.</p>
 
@@ -469,23 +2261,23 @@ T;U;[0I"�<p>Row row ro your boat, gently down the stream,</p>
 
 <p>By thinking like this, you stop the flow of Universal Love, without which the Universe IS A cruel and HARD PLACE.</p>
 
-<p>Me: What do you mean by self sabotage by the ego?</p>
+<p><em>Me:</em> What do you mean by self sabotage by the ego?</p>
 
-<p>Teacher: Look at any alcoholic. S/he will, when sober, swear on the lives of their children never to drink again. And yet, just a few hours later, they will be stealing money from those same children just to get a high. You must have examples from your own life?</p>
+<p><em>Teacher:</em> Look at any alcoholic. S/he will, when sober, swear on the lives of their children never to drink again. And yet, just a few hours later, they will be stealing money from those same children just to get a high. You must have examples from your own life?</p>
 
-<p>Me: I want to be loving, but sometimes I’m rude to people I love. I say things that hurt them, sometimes profoundly, and yet later I think: *WHy did I say that? THAT WAS NOT ME. It was like another person took over my body. An insane person.</p>
+<p><em>Me:</em> I want to be loving, but sometimes I’m rude to people I love. I say things that hurt them, sometimes profoundly, and yet later I think: *Why did I say that? THAT WAS NOT ME. It was like another person took over my body. An insane person.</p>
 
-<p>Teacher: Yes, that insanity that comes over most people, including you, is the EGO. It loves misery, and will make every effort to bring more of it. It will say you need the perfect partner and job and house and car to be happy.</p>
+<p><em>Teacher:</em> Yes, that insanity that comes over most people, including you, is the EGO. It loves misery, and will make every effort to bring more of it. It will say you need the perfect partner and job and house and car to be happy.</p>
 
-<p>And yet as soon as you have it all, it will start finding faults. The wife is growing old, or can’t cook, or doesn’t work. The boss is rude, the house needs maintainenace, the car is too expensive to run.</p>
+<p>And yet as soon as you have it all, it will start finding faults. The wife is growing old, or can’t cook, or doesn’t work. The boss is rude, the house needs maintenance, the car is too expensive to run.</p>
 
 <p>And if you don’t achieve your life goals, the ego will say: You loser, you can’t even find a husband/wife, all your friends seem to do so. Stuck at the same dead end job, you are pathetic. What a loser I am!</p>
 
 <p>No matter what the circumstances, the ego will find a way to be miserable and complain. It can never be happy, because the EGO WAS BORN FROM PAIN.</p>
 
-<p>Me: Teacher, what does that mean?</p>
+<p><em>Me:</em> Teacher, what does that mean?</p>
 
-<p>Teacher: The ego is the child of forgetfulness, born when You forget who YOU ARE. You start thinking you are this limited body, or even worse, the thinking mind, with its non stop analysis and attenmpts to tear everything apart.</p>
+<p><em>Teacher:</em> The ego is the child of forgetfulness, born when You forget who YOU ARE. You start thinking you are this limited body, or even worse, the thinking mind, with its non stop analysis and attempts to tear everything apart.</p>
 
 <p>The Pain of /humanity is the pain of not remembering who you are. It is caused by the hidden knowledge that one is bigger than one seems, that a human is more than just body and bones and thoughts. That something survives death. And here we are not talking about what the religious people call the soul, the thing that goes to heaven or hell. Even that is a PART of the DREAM.</p>
 
@@ -499,75 +2291,28 @@ T;U;[0I"�<p>Row row ro your boat, gently down the stream,</p>
 
 <p>Let us come back to our original question: Is there anything to do? Anywhere to go? If we are immortal here, why do we need to meditate?</p>
 
-<p>Me: Ehhhh, if I knew the answer, I wouldn’t be here, would I? I would be sitting on some mountain top, feeling all enlightened.</p>
+<p><em>Me:</em> Ehhhh, if I knew the answer, I wouldn’t be here, would I? I would be sitting on some mountain top, feeling all enlightened.</p>
 
-<p>Teacher: Ha! There is no Internet reception on mountain tops, so maybe not.</p>
+<p><em>Teacher:</em> Ha! There is no Internet reception on mountain tops, so maybe not.</p>
 
 <p>To answer our question: There is nothing for you to do. By you here, I mean the little you, the egoic self, as compared to the big YOU, your True Self.</p>
 
 <p>All meditations, all techniques, all religions (in their true inner form, not the superstitious and ritualistic outer form) aim for one thing: For the little you, the mind, the ego, to shut up for one second, so that the Real Self can come forward.</p>
 
-<p>Me: Us humans cant just shut up, can we?</p>
+<p><em>Me:</em> Us humans cant just shut up, can we?</p>
 
-<p>Teacher: Nope. Well, your minds can’t. :)</p>
+<p><em>Teacher:</em> Nope. Well, your minds can’t. :)</p>
 
 <p>So effort is required, but only as much as to make the mind silent, so the Light of the Self can flow through. Once this starts happening, THEN there is nothing for you to do. The Light will not let you forget, will not let you go back, though you can resist it.</p>
 
-<p>Me: Resist it how?</p>
+<p><em>Me:</em> Resist it how?</p>
 
-<p>Teacher: Many ways for us to go into now. By letting the ego try to control the light, which happens when you try to become a world Guru before you are ready. By letting the ego interpret the Light in its own way, to make itself bigger, as in <em>Oooh lala, I’m so Spiritual</em>. There are a lot of other ways, which will we will discuss another day.</p>
+<p><em>Teacher:</em> Many ways for us to go into now. By letting the ego try to control the light, which happens when you try to become a world Guru before you are ready. By letting the ego interpret the Light in its own way, to make itself bigger, as in <em>Oooh lala, I’m so Spiritual</em>. There are a lot of other ways, which will we will discuss another day.</p>
 
-<p>Me: So I shouldn’t plan on wearing golden robes and calling my self the Saviour</p>
+<p><em>Me:</em> So I shouldn’t plan on wearing golden robes and calling my self the Saviour</p>
 
 <p>Of the World (TM) just yet?</p>
 
-<p>Teacher: Maybe not today :)</p>
+<p><em>Teacher:</em> Maybe not today :)</p>
 ;
-T;@:	post@o;;;;	I"/index.h;
-T{;{	;o:Nanoc::Int::BinaryContent:@filenameI"C:/st/path/content/index.h;
-T;@!;@!;@!o;;;;	I"/index.md;
-T{;{
-;U;[0I"�<!DOCTYPE HTML>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>A Brand New Nanoc Site - </title>
-    <link rel="stylesheet" href="/stylesheet.css">
-
-    <!-- you don't need to keep this, but it's cool for stats! -->
-    <meta name="generator" content="Nanoc 4.9.3">
-  </head>
-  <body>
-    <div id="main">
-      <h1 id="shantnu-rulez">Shantnu RULEZ!!</h1>
-
-<h2 id="lalalal">Lalalal</h2>
-
-<p><strong>BOLD!</strong></p>
-
-
-    </div>
-
-  </body>
-</html>
-;
-T;U;[I" C:/st/path/content/index.md;
-TI"3# Shantnu RULEZ!!
-
-
-
-## Lalalal
-
-
-
-**BOLD!**
-
-;
-T;U;[0I"p<h1 id="shantnu-rulez">Shantnu RULEZ!!</h1>
-
-<h2 id="lalalal">Lalalal</h2>
-
-<p><strong>BOLD!</strong></p>
-
-;
-T;@';@':versioni
+T;@=;@=:versioni

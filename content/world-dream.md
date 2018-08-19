@@ -1,38 +1,20 @@
-Row row ro your boat, gently down the stream,
-
-Merrily merrily merrily,
-
-Life is but a dream
+#Is This World Just a Dream? So Can I Just Drink Beer and Watch TV?
 
  
 
-There was once a prince who dreamed he was a beggar. He was starving in the sun, no one’d to feed.
+If there is nothing to do, does that *Me*an I can sit in front of /internet, pants down, *Teacher*?
 
  
 
-There was once a beggar who dreamed he was a prince.
+*Teacher:* If you want to, yes! Especially if it makes you feel good. Close the door though, you don’t want your wife to see.
 
  
 
- 
-
-What I am writing for? Who am I writing for? Who is my reader? Do I even need to type this? Or anything?
+*Me:* Hey! Seriously.
 
  
 
-If there is nothing to do, does that mean I can sit in front of /internet, pants down, Teacher?
-
- 
-
-Teacher: If you want to, yes! Especially if it makes you feel good. Close the door though, you don’t want your wife to see.
-
- 
-
-Me: Hey! Seriously.
-
- 
-
-Teacher: There is nothing to do, nowhere to go. That is correct.
+*Teacher:* There is nothing to do, nowhere to go. That is correct.
 
  
 
@@ -50,15 +32,15 @@ When the Teacher says there is nothing to do, just let go, he means let go of yo
 
  
 
-Me: But if I do that, I’ll starve to death. How will I live in the world? How will I make a living?
+*Me:* But if I do that, I’ll starve to death. How will I live in the world? How will I make a living?
 
  
 
-Teacher: That’s what your ego thinks. *If I stop controlling every single second of life, m y life will be ruined! Boohoohoo!*
+*Teacher:* That’s what your ego thinks. *If I stop controlling every single second of life, m y life will be ruined! Boohoohoo!*
 
  
 
-And the funny thing is, your life is ruined because the ego wil sabotage you. The ego is a cruel task master. If you are about to become successful, it will sabotage you. If you don’t do what it tells you, it will constantly find ways to thwart you. It will look at the smallest mistake you made, blow it all out of proportion, and try to shame you.
+And the funny thing is, your life is ruined because the ego will sabotage you. The ego is a cruel task master. If you are about to become successful, it will sabotage you. If you don’t do what it tells you, it will constantly find ways to thwart you. It will look at the smallest mistake you made, blow it all out of proportion, and try to shame you.
 
  
 
@@ -94,23 +76,23 @@ By thinking like this, you stop the flow of Universal Love, without which the Un
 
  
 
-Me: What do you mean by self sabotage by the ego?
+*Me:* What do you mean by self sabotage by the ego?
 
  
 
-Teacher: Look at any alcoholic. S/he will, when sober, swear on the lives of their children never to drink again. And yet, just a few hours later, they will be stealing money from those same children just to get a high. You must have examples from your own life?
+*Teacher:* Look at any alcoholic. S/he will, when sober, swear on the lives of their children never to drink again. And yet, just a few hours later, they will be stealing money from those same children just to get a high. You must have examples from your own life?
 
  
 
-Me: I want to be loving, but sometimes I’m rude to people I love. I say things that hurt them, sometimes profoundly, and yet later I think: *WHy did I say that? THAT WAS NOT ME. It was like another person took over my body. An insane person.
+*Me:* I want to be loving, but sometimes I’m rude to people I love. I say things that hurt them, sometimes profoundly, and yet later I think: *Why did I say that? THAT WAS NOT ME. It was like another person took over my body. An insane person.
 
  
 
-Teacher: Yes, that insanity that comes over most people, including you, is the EGO. It loves misery, and will make every effort to bring more of it. It will say you need the perfect partner and job and house and car to be happy.
+*Teacher:* Yes, that insanity that comes over most people, including you, is the EGO. It loves misery, and will make every effort to bring more of it. It will say you need the perfect partner and job and house and car to be happy.
 
  
 
-And yet as soon as you have it all, it will start finding faults. The wife is growing old, or can’t cook, or doesn’t work. The boss is rude, the house needs maintainenace, the car is too expensive to run.
+And yet as soon as you have it all, it will start finding faults. The wife is growing old, or can’t cook, or doesn’t work. The boss is rude, the house needs maintenance, the car is too expensive to run.
 
  
 
@@ -122,11 +104,11 @@ No matter what the circumstances, the ego will find a way to be miserable and co
 
  
 
-Me: Teacher, what does that mean?
+*Me:* Teacher, what does that mean?
 
  
 
-Teacher: The ego is the child of forgetfulness, born when You forget who YOU ARE. You start thinking you are this limited body, or even worse, the thinking mind, with its non stop analysis and attenmpts to tear everything apart.
+*Teacher:* The ego is the child of forgetfulness, born when You forget who YOU ARE. You start thinking you are this limited body, or even worse, the thinking mind, with its non stop analysis and attempts to tear everything apart.
 
  
 
@@ -154,11 +136,11 @@ Let us come back to our original question: Is there anything to do? Anywhere to 
 
  
 
-Me: Ehhhh, if I knew the answer, I wouldn’t be here, would I? I would be sitting on some mountain top, feeling all enlightened.
+*Me:* Ehhhh, if I knew the answer, I wouldn’t be here, would I? I would be sitting on some mountain top, feeling all enlightened.
 
  
 
-Teacher: Ha! There is no Internet reception on mountain tops, so maybe not.
+*Teacher:* Ha! There is no Internet reception on mountain tops, so maybe not.
 
  
 
@@ -170,11 +152,11 @@ All meditations, all techniques, all religions (in their true inner form, not th
 
  
 
-Me: Us humans cant just shut up, can we?
+*Me:* Us humans cant just shut up, can we?
 
  
 
-Teacher: Nope. Well, your minds can’t. :)
+*Teacher:* Nope. Well, your minds can’t. :)
 
  
 
@@ -182,18 +164,18 @@ So effort is required, but only as much as to make the mind silent, so the Light
 
  
 
-Me: Resist it how?
+*Me:* Resist it how?
 
  
 
-Teacher: Many ways for us to go into now. By letting the ego try to control the light, which happens when you try to become a world Guru before you are ready. By letting the ego interpret the Light in its own way, to make itself bigger, as in *Oooh lala, I’m so Spiritual*. There are a lot of other ways, which will we will discuss another day.
+*Teacher:* Many ways for us to go into now. By letting the ego try to control the light, which happens when you try to become a world Guru before you are ready. By letting the ego interpret the Light in its own way, to make itself bigger, as in *Oooh lala, I’m so Spiritual*. There are a lot of other ways, which will we will discuss another day.
 
  
 
-Me: So I shouldn’t plan on wearing golden robes and calling my self the Saviour
+*Me:* So I shouldn’t plan on wearing golden robes and calling my self the Saviour
 
 Of the World (TM) just yet?
 
  
 
-Teacher: Maybe not today :)
+*Teacher:* Maybe not today :)
