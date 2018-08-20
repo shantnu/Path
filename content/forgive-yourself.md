@@ -86,8 +86,4 @@ You find perfection by transcending the human experience, not by getting stuck i
 
 Learn to Love, Forgive, and most important, Move on. 
 
- 
 
- 
-
-    

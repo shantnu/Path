@@ -38,3 +38,14 @@ Question from reader: *I have been meditating for years, and yet I feel imperfec
 
 The Teacher replies: [You may have misunderstood what meditation is all about](/forgive-yourself)
 
+----
+
+
+
+Most people think of meditation as sitting in lotus pose chanting *Auuummmm*. 
+
+A great resource for learning to meditate is the Course in Miracles, [which teaches you to train your mind to become peaceful](/course-in-miracles).
+
+
+
+As a mini followup, read how the Course helped me with my job hunting. [Interviewing Spiritually](Interviewing-Spiritually)
