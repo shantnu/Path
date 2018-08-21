@@ -2,7 +2,7 @@
 
  
 
-If there is nothing to do, does that *Me*an I can sit in front of /internet, pants down, *Teacher*?
+*Me*: Spiritual types say the world is just an illusion, that there is nothing to do, as we are already perfect. If there is nothing to do, does that mean I can sit in front of internet, pants down, drinking beer?
 
  
 
