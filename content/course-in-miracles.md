@@ -85,7 +85,7 @@ So even though it uses Christian language, please remember that the Course is re
 Same with the word God. You don’t have to believe in a God in the Christian sense. Replace God with Your Higher Self, the Inner Teacher, or  your True Self, if that sounds better.
 
  
-Is the Course suitable for YOU?
+**Is the Course suitable for YOU?**
 
 
 
