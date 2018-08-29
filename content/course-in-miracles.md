@@ -298,7 +298,7 @@ If not, feel free to get the book.
 
  
 
-Note: Some people complain that Marianne spends too much time talking about *Luuhhhvvvvv*. If all this talk of emotion offends you, you might want to reconsider what makes you so angry talking about emotions. I was a lot like this for a long time, until I realised I was suppressing my emotions, unless only anger and hate remained.
+Note: Some people complain that Marianne spends too much time talking about *Luuhhhvvvvv*. If all this talk of emotion offends you, you might want to reconsider what makes you so angry talking about emotions. I was a lot like this for a long time, until I realised I was suppressing my emotions, and only anger and hate remained. Outside of the Stars Wars Universe, hate and anger do not help you at all, materially or spiritually. 
 
  
 
