@@ -1,8 +1,8 @@
-# Interviewing Spiritually
+# A Meditation to Deal with Stressful Job Interviews
 
  
 
-## How NOT to panic at interviews
+## Or How NOT to panic at interviews
 
  
 
@@ -22,7 +22,7 @@ I was interviewing furiously, but still had a lot of free time, so I went back t
 
  
 
-It was at this stage that I started talking to the Inner Teacher. It was from him that I found this inspiring line from the Course:
+It was at this stage that I saw this inspiring line from the Course:
 
  
 
@@ -32,24 +32,32 @@ It was at this stage that I started talking to the Inner Teacher. It was from hi
 
 Specially this part: *I do not have to worry about what to say or do, because he who sent me will guide me.*
 
- 
 
-This became my mantra before every interview. Earlier, I was always tense, stressful and angry. I took the usual idiotic advice given by recruiters: Act interested in the company, ask them questions etc. But this only made me sound desperate (at least to myself).
 
- 
+ If you don't believe in God, replace *he* with the Inner Teacher, Higher Self, Buddha Nature or the Universal Intelligence.
 
-But then I started following the mantra of the Course: He Who Sent me will tell me what to say.
 
- 
 
-And I stopped worrying, knowing the Universe would tell me what to say.
+This became my mantra before every interview. Earlier, I was always tense, stressful and angry. I took the usual idiotic advice given by recruiters: Act interested in the company, ask them leading questions etc. But this only made me sound desperate (at least to myself). *Please sirrr, gimme job sirrr, I'll do anything, clean your car, wash your clothes, sirrr*.
 
- 
+So I gave up on traditional advice and started following this technique:
 
-And you know what? It worked. I just knew what to say, and when, and every company I interviewed with was impressed, and 2 gave me offers.
+## Interview Mantra
 
- 
+On the day of the interview, I would say the Mantra to myself a few times.
 
-But the best part was going into an interview smiling, not tense, because I knew it wasn’t just me, but the whole Universe supporting me in that Interview.
+Then, when I reached the company, I would turn off the car, btu keep sitting in it. If possible, finding a park or natural area is also a good idea.
 
- 
+Then repeat the saying again at least 3 times:
+
+*I do not have to worry about what to say or do, because he who sent me will guide me.*
+
+Then I would go to the interview smiling. I refused to think at all about all the disaster scenarios if I didn't get the job. Instead, if I got any worrying thought, I would replace it with *My Higher Self will guide me if that occurs.*
+
+And I actually felt a Higher Intelligence was guiding my path. I knew just what to say and when, I was relaxed and confident, and for the first time in my 15 year career, I actually laughed in the interview, instead of acting like I had diarrhea and the interviewer was an interrogator trying to get a confession out of me, which is how I normally interviewed ☺ 
+
+The interview process became easy, I got more job offers, including one I accepted, including a significant pay rise. The funny thing is, the company is one I would normally have ignored because of some personal biases, but because I was listening to the Higher Self, I decided to apply anyway.
+
+**Finally** 
+
+I still use this Mantra whenever I face any stressful situation. I remind myself that I do not have to worry about everything, try to control everything, for the Inner Teacher will guide me on what to do. And it works wonders everytime ☺ 
