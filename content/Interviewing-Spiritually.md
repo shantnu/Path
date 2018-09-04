@@ -6,7 +6,7 @@
 
  
 
-I discovered the [Course in Miracles](/course-in-miracles) at a bad point in my life, which actually turned out to be a good thing. As I wrote in the article [The Gift of Suffering] (/Gift-Of-Suffering) , suffering is good for you, spiritually, as it forces you to question your life.
+I discovered the [Course in Miracles](/course-in-miracles) at a bad point in my life, which actually turned out to be a good thing. As I wrote in the article [The Gift of Suffering] (/gift-of-suffering/) , suffering is good for you, spiritually, as it forces you to question your life.
 
  
 
