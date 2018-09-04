@@ -48,4 +48,4 @@ A great resource for learning to meditate is the Course in Miracles, [which teac
 
 
 
-As a mini followup, read how the Course helped me with my job hunting. [Interviewing Spiritually](Interviewing-Spiritually)
+As a mini followup, read how the Course helped me with my job hunting. [A Meditation to Deal with Stressful Job Interviews](Interviewing-Spiritually)
