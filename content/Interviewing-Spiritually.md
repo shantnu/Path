@@ -10,7 +10,7 @@ I discovered the [Course in Miracles](/course-in-miracles) at a bad point in my 
 
  
 
-For me, I lost my job, and the company found a legal way to ding my redundancy pay, so that I would only get a fraction of what I thought I was getting. Maybe it was my mistake for expecting too much, but the fact was, I was out of a job, little or no savings, a little baby and wife to take care of.
+In 2017, I lost my job, and the company found a legal way to ding my redundancy pay, so that I would only get a fraction of what I thought I was getting. Maybe it was my mistake for expecting too much, but the fact was, I was out of a job, little or no savings, a little baby and wife to take care of.
 
  
 
