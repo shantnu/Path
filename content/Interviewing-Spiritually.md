@@ -46,7 +46,9 @@ So I gave up on traditional advice and started following this technique:
 
 On the day of the interview, I would say the Mantra to myself a few times.
 
-Then, when I reached the company, I would turn off the car, btu keep sitting in it. If possible, finding a park or natural area is also a good idea.
+*In this interview, I do not have to worry about what to say or do, because he who sent me will guide me.*
+
+Then, when I reached the company, I would turn off the car, but keep sitting in it. If possible, finding a park or natural area is also a good idea.
 
 Then repeat the saying again at least 3 times:
 
