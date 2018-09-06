@@ -81,12 +81,28 @@ In this way, ACIM is closer to Advaita Vedanta than traditional Christianity. Ad
 So even though it uses Christian language, please remember that the Course is religion neutral, and its main goal is to train your mind. It does not claim to be better than any other meditation technique out there. In fact, the ACIM clearly says all religions and meditation techniques are incomplete, as you cannot talk about the Infinite using words; but we have to start somewhere. 
 
  
-
  
-
 Same with the word God. You don’t have to believe in a God in the Christian sense. Replace God with Your Higher Self, the Inner Teacher, or  your True Self, if that sounds better.
 
  
+**Is the Course suitable for YOU?**
+
+
+
+Only you can answer  this question, but I find the best students of the Course are those who have been meditating for some time, have studied other philosophies like Advaita, Zen, Buddhism, Yoga etc.
+
+
+
+That's because the Course, being pure non-dualistic, is closer to these philosophies than traditional religion.
+
+
+
+For me, I found the Course offers the best balance between being too dry and other worldly on the one extreme, and being all lubby-dubby, hugging your neighbour and talking to your plants (for the other extreme).
+
+
+
+But your mileage may vary. At the minimum, I would recommend reading the 2 books I list at the end, as the 2 writers I mention have a different world view than me, and may even be better writers than me! 
+
 
  I hope I have not turned you off by now.  Let’s look at how the Course trains your mind.
 
@@ -282,7 +298,7 @@ If not, feel free to get the book.
 
  
 
-Note: Some people complain that Marianne spends too much time talking about *Luuhhhvvvvv*. If all this talk of emotion offends you, you might want to reconsider what makes you so angry talking about emotions. I was a lot like this for a long time, until I realised I was suppressing my emotions, unless only anger and hate remained.
+Note: Some people complain that Marianne spends too much time talking about *Luuhhhvvvvv*. If all this talk of emotion offends you, you might want to reconsider what makes you so angry talking about emotions. I was a lot like this for a long time, until I realised I was suppressing my emotions, and only anger and hate remained. Outside of the Stars Wars Universe, hate and anger do not help you at all, materially or spiritually. 
 
  
 
