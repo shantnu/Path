@@ -17,7 +17,7 @@ end
 
 compile '/**/index.md' do
   filter :kramdown
-  layout '/default.*'
+  layout '/shan.*'
   write  '/index.html'
 end
 
