@@ -1,3 +1,7 @@
+---
+title: Suffering isn't Always Bad, It Can Help You Grow Spiritually
+---
+
 # The Gift Of Suffering
 
  

@@ -47,7 +47,7 @@ Table of contents
 
 body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:14px; color:#6f6f6f; font-weight: 400;line-height: 24px;}
 body, html { height: 100%; -moz-osx-font-smoothing: grayscale;}
-a, a:active, a:focus { color: #6f6f6f; text-decoration: none; }
+a, a:active, a:focus { color: #0000FF; text-decoration: none; }
 a:hover, a:active{color: #ff214f; text-decoration: none;}
 a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none;}
 img {max-width:100%; height:auto; }
@@ -59,7 +59,7 @@ input:focus, textarea:focus{ border-color: #585858; outline: none; }
 input[type="button"]:focus{ outline: none; }
 select::-ms-expand{ display:none;}
 iframe { border: 0;}
-p {margin: 0 0 25px}
+p {font-size:27px; line-height: 1.6; margin: 0 0 25px}
 b, strong { font-weight: 600;}
 .last-paragraph-no-margin p:last-of-type {margin-bottom:0}
 .alt-font strong {font-weight: 700 }
@@ -82,7 +82,7 @@ ul, ol, dl {list-style-position: outside; margin-bottom: 25px}
 
 /* heading */
 h1, h2, h3, h4, h5, h6 {margin:0 0 25px; padding:0; letter-spacing: 0; font-weight: 400;}
-h1 {font-size:70px; line-height: 70px;}
+h1 {font-size:70px; line-height: 70px;color: #000;}
 h2 {font-size:55px; line-height:60px}
 h3 {font-size:48px; line-height:54px}
 h4 {font-size:40px; line-height:46px}

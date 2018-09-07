@@ -1,3 +1,7 @@
+---
+title: "The Hardest Part is to Forgive Yourself, and Accept Your Failures"
+---
+
 **Question**: *I  have been meditating for years, and yet I get negative feelings like anger, jealousy, irritation.*
 
  

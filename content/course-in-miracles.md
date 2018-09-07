@@ -1,3 +1,7 @@
+---
+title: Training Your Mind to Choose Peace
+---
+
 # Training Your Mind to Choose Peace: An Introduction to a Course in Miracles
 
  

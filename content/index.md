@@ -1,3 +1,7 @@
+---
+title: The Path to Joy
+---
+
 # The Path to Joy
 
 

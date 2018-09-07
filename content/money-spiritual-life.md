@@ -1,3 +1,7 @@
+---
+title: Money Ain't Evil, It's Your Stupid Ideas About It That Cause Problems
+---
+
 # Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?
 
 *Me*: *Teacher*, the general belief amongst spiritual types is that money is evil, money is bad.
