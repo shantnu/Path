@@ -30,6 +30,10 @@ Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](
 
 Spiritual types think money is evil, it's all about the *Luuhhvvvvvv*. But this twisted thinking actually stops them from growing spiritually.
 
+
+
+[Money is Sooooo Evvvilllllll: Or, Why Spiritual Types Struggle with Money](/money-so-evil) - A follow up to the above, for the people still convinced moneys is *Evilllllllzzzzz*. 
+
 ---
 
 
