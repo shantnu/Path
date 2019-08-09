@@ -20,6 +20,10 @@ Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](
 
 ---
 
+[Inner War and Peace: The War in Our Minds and Dark Night of the Soul](/hidden-message-gita-dark-night-soul) : A war that started thousands of years ago is still going on..... in our minds. In this essay I talk about a dangerous enemy that stops most meditators in their paths, and can even kill you if you are not careful...
+
+---
+
 [Why the F%^& doesn't God/Goddess/Spongebob Squarepants answer my prayers?](/why-the-f-doesnt-god-answer-prayers)
 
 You sit there praying to a God who seems absent or just doesn't care. And you wonder, God, dude, what the fuck is going on? All I asked for was a cheese sandwich, **why won't you listen to my prayers and give me the goddamn cheese sandwich**?
