@@ -208,3 +208,4 @@ Ultimately, we have to realise we are not the ones doing the Spiritual Practice.
 
 When the Light of the Divine comes, that is when we will finally die. That is when the ego will finally find peace, and stop fighting, as it melts into the Love of the Mother.
 
+**And that is when the War will end, and Uou will finally find the Peace and Joy of God**
