@@ -28,6 +28,11 @@ The reason, as I so eloquently describe, is because [God hates you. Sorry, but i
 
 ---
 
+What do you do when all seems hopeless and [life seems to be going to shit?](/what-to-do-when-life-seems-hopeless)
+
+tldr: Fuckin' breathe
+
+---
 
 
 [Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?](money-spiritual-life)
