@@ -64,7 +64,7 @@ And I actually felt a Higher Intelligence was guiding my path. I knew just what 
 
 The interview process became easy, I got more job offers, including one I accepted, including a significant pay rise. The funny thing is, the company is one I would normally have ignored because of some personal biases, but because I was listening to the Higher Self, I decided to apply anyway.
 
-And accept that some interviews *wont* good, but you have to trust that was **not** the job for you. You have to accept the Universe has a better job for you. This faith keeps you positive and smiling, and trust me, that helps in interviews.
+And accept that some interviews *wont* go good, but you have to trust that was **not** the job for you. You have to accept the Universe has a better job for you. This faith keeps you positive and smiling, and trust me, that helps in interviews.
 
 **Finally** 
 
