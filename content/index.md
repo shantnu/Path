@@ -18,6 +18,7 @@ BUT
 
 Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](/Gift-of-suffering)
 
+---
 
 [Why the F%^& doesn't God/Goddess/Spongebob Squarepants answer my prayers?](/why-the-f-doesnt-god-answer-prayers.md)
 
