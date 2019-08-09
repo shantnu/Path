@@ -1,5 +1,5 @@
 ---
-title: Inner War and Peace: The War in Our Minds and Dark Night of the Soul
+title: "Inner War and Peace: The War in Our Minds and Dark Night of the Soul"
 ---
 
 # Inner War and Peace: The War in Our Minds and Dark Night of the Soul
