@@ -1,3 +1,7 @@
+---
+title: Why the F doesn't God/Goddess/Spongebob Squarepants answer my prayers?
+---
+
 # Why the F%^& doesn't God/Goddess/Spongebob Squarepants answer my prayers?
 OR
 ## If God is so nice, why does he/she/Bob let people suffer?
