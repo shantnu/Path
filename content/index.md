@@ -20,11 +20,11 @@ Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](
 
 ---
 
-[Why the F%^& doesn't God/Goddess/Spongebob Squarepants answer my prayers?](/why-the-f-doesnt-god-answer-prayers.md)
+[Why the F%^& doesn't God/Goddess/Spongebob Squarepants answer my prayers?](/why-the-f-doesnt-god-answer-prayers)
 
 You sit there praying to a God who seems absent or just doesn't care. And you wonder, God, dude, what the fuck is going on? All I asked for was a cheese sandwich, **why won't you listen to my prayers and give me the goddamn cheese sandwich**?
 
-The reason, as I so eloquently describe, is because [God hates you. Sorry, but it's just You](/why-the-f-doesnt-god-answer-prayers.md)
+The reason, as I so eloquently describe, is because [God hates you. Sorry, but it's just You](/why-the-f-doesnt-god-answer-prayers)
 
 ---
 
