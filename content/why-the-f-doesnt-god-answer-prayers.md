@@ -3,8 +3,11 @@ title: Why the F doesn't God/Goddess/Spongebob Squarepants answer my prayers?
 ---
 
 # Why the F%^& doesn't God/Goddess/Spongebob Squarepants answer my prayers?
+
 OR
+
 ## If God is so nice, why does he/she/Bob let people suffer?
+
 OR
 
 *The post that answers the controversial question: Why wasn't your prayer for a cheese sandwich ever answered?*
@@ -39,7 +42,7 @@ The insane ego often attacks itself; it goes crazy with fear and doubt, fighting
 
 Helping the ego would be like giving a knife to a drug addict in pain. The addict will only hurt himself more.
 
-And so while it may sound painful, sometimes the best way to help a brother/sister in trouble is to let them suffer, to let them realise the madness of the ego that brought them here. (See also, Gift of Suffering).
+And so while it may sound painful, sometimes the best way to help a brother/sister in trouble is to let them suffer, to let them realise the madness of the ego that brought them here. (See also, [Gift of Suffering](/gift-of-suffering) ).
 
 Of course, sometimes God does help. This is called Grace- and there are no "formulas" to get it. A very religious person might not get it, someone who spends their time drinking and womanising may get it. The Universal Intelligence looks at many factors before deciding who gets Grace- and I don't understand this completely either.
 
@@ -74,4 +77,3 @@ And the Spirit says *Patience. I got your back. All is covered, you are protecte
 
 And that is also life. Walking on burning coals, in slow motion, while still having the faith that the Universal Intelligence has everything figured out, that this is in fact the best path.
 
-I still haven't answered the question: Why doesn't God answer our prayers? Because he's a bastard, that's why. Or he just hates you. :)
