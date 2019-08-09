@@ -24,7 +24,7 @@ It can often feel frustrating to pray, and not just get no answers, but often ha
 
 There are multiple answers to this.
 
-The 1st is: God is not something "out there". There is no "me here, God there, God help poor me" scenario. We are what we worship.
+The 1st is: God is not something "out there". There is no *me here, God there, God help poor me* scenario. We are what we worship.
 
 That said, there is a universal intelligence, a higher force, something that is bigger than us, and that we can ask for help, if we are in a state of peace and silence.
 
@@ -40,7 +40,7 @@ They are not THE PROBLEM we have.
 
 The insane ego often attacks itself; it goes crazy with fear and doubt, fighting an imaginary enemy it itself created. It is usually this insane ego that prays for help.
 
-Helping the ego would be like giving a knife to a drug addict in pain. The addict will only hurt himself more.
+Helping the ego would be like giving a knife to a drug addict in pain. The addict will only hurt himself more. Read more about this here [ADDL LINK WHEN AVAIL]()
 
 And so while it may sound painful, sometimes the best way to help a brother/sister in trouble is to let them suffer, to let them realise the madness of the ego that brought them here. (See also, [Gift of Suffering](/gift-of-suffering) ).
 
