@@ -40,7 +40,7 @@ They are not THE PROBLEM we have.
 
 The insane ego often attacks itself; it goes crazy with fear and doubt, fighting an imaginary enemy it itself created. It is usually this insane ego that prays for help.
 
-Helping the ego would be like giving a knife to a drug addict in pain. The addict will only hurt himself more. Read more about this here [ADDL LINK WHEN AVAIL]()
+Helping the ego would be like giving a knife to a drug addict in pain. The addict will only hurt himself more. Read more about this here [The Inner War](/hidden-message-gita-dark-night-soul)
 
 And so while it may sound painful, sometimes the best way to help a brother/sister in trouble is to let them suffer, to let them realise the madness of the ego that brought them here. (See also, [Gift of Suffering](/gift-of-suffering) ).
 
