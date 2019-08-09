@@ -1,5 +1,5 @@
 ---
-title: Why the F doesn't God/Goddess/Spongebob Squarepants answer my prayers?
+title: "Why the F doesn't God/Goddess/Spongebob Squarepants answer my prayers?"
 ---
 
 # Why the F%^& doesn't God/Goddess/Spongebob Squarepants answer my prayers?
