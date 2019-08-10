@@ -192,15 +192,17 @@ All the while, even in its most mad moment, all it wants is a hug, to be loved f
 
 And that is why the Mother teaches compassion. One who has no compassions for oneself can *never* have it for others.
 
+
+
 ## The Scared Child
 
 And this is the biggest tragedy of all. Our biggest enemy is a scared child, a child looking for an ounce of love. And we don't even have that to give it.
 
-Ultimately, the ego must die. It must be killed, for while it lives, it will keep attacking itself, it will keep self harming until it destroy itself.
+Ultimately, the ego must be defeated. For while it lives, it will keep attacking itself, it will keep self harming until it destroy itself.
 
 But the Teacher and the Mother do not wish for us to become monsters as we fight the ego. We must remain Aware, Compassionate and loving. The ultimate war is fought by the Mother. Over time, the Light of the Divine will melt the forces of Darkness.
 
-There is little or nothing for us to be done- and this is what makes so many spiritual people unhappy. they want secret techniques, shaktipat from enlightened Gurus, powerful mantras, special meditations. These things might work, but they never defeat the ego, as the ego takes over the meditation. It always does.
+There is little or nothing for us to be done- and this is what makes so many spiritual people unhappy. They want secret techniques, shaktipat from enlightened Gurus, powerful mantras, special meditations. These things might work, but they never defeat the ego, as the ego takes over the meditation. It always does.
 
 The way to defeat the Darkness is to surrender to the Mother Energy, to let her work through us, to let her Heal us. To listen to the Inner Teacher as he guides us on our path.
 
@@ -208,4 +210,27 @@ Ultimately, we have to realise we are not the ones doing the Spiritual Practice.
 
 When the Light of the Divine comes, that is when we will finally die. That is when the ego will finally find peace, and stop fighting, as it melts into the Love of the Mother.
 
-**And that is when the War will end, and Uou will finally find the Peace and Joy of God**
+**And that is when the War will end, and You will finally find the Peace and Joy of God**
+
+
+## A Vision of the scared child
+
+I debated putting this last section here, as I don't want to look like I'm boasting. *Ohh, look at me. I get VISIONS. With God. Me, so special*
+But the Teacher asked me to put it in here, reminding me that false humility is also a weapon of the ego. So here goes:
+
+I had been thinking about these thoughts in meditation, full of anger and hate about something. I was having thoughts of self disgust- *Im so weak, how will I ever become englightened etc*.
+That is when I got this vision.
+I was in a place with a bright light, and on the floor was a little baby, very ugly like a demon child, and it was all bleeding and hurt. I asked, "Who did this to this child?"
+I heard a voice, a voice I knew belong to God. "He did it to himself, Shantnu. Do you not recognise himH he's your own inner self. You did that him. You did it to yourself in your madness."
+At this point, I started crying. Like, tears started flowing and I started sobbing like a child. 
+The voice spoke again. "Look around. There are millions of other children suffering too."
+I saw there were millions of other children around me- all stuck in bubbles, all bleeding from injuries they had caused themselves. Each baby was alone.
+I saw the bright white light was healing me- but that most of the other babies were blocking it off by the bubbles they were creating.
+"Why don't you help them?" I asked.
+"I DO. I speak to all of them, like I'm speaking to YOU. But they don't hear me. They CAN'T hear me, though I try. I keep talking to them, to let them open, so MY LIGHT can heal them."
+"What can I do to help them?" I asked.
+"You can't. At least, not now, not in your current state. The best thing you can do is: Heal YOURSELF first. And then, you will be able to carry MY VOICE to them. That is the only way to heal them- to make them realise they are not alone, that they are surrounded by love, by the Light."
+And that is the final lesson I want to give you: If you want to help save the world, help ease the suffering of the world, HEAL YOURSELF first. Let the Light heal you. In my vision, I had to do nothing. As soon as I opened up, the Light healed me by itself, without me having to do anything. 
+And that is the **hard** lesson we can't / won't accept. There is so little for us to do except open up. Just stay still, the Light knows what to do, how to Heal us.
+And once YOU are healed, you can start to heal your fellow brothers and sisters. Show them the Light, show them that they need do nothing, that the Divine is willing to do everything for them, *if only You will let Him*.
+
