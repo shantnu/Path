@@ -216,6 +216,7 @@ When the Light of the Divine comes, that is when we will finally die. That is wh
 ## A Vision of the scared child
 
 I debated putting this last section here, as I don't want to look like I'm boasting. *Ohh, look at me. I get VISIONS. With God. Me, so special*
+
 But the Teacher asked me to put it in here, reminding me that false humility is also a weapon of the ego. So here goes:
 
 I had been thinking about these thoughts in meditation, full of anger and hate about something. I was having thoughts of self disgust- *Im so weak, how will I ever become englightened etc*.
@@ -224,7 +225,7 @@ That is when I got this vision.
 
 I was in a place with a bright light, and on the floor was a little baby, very ugly like a demon child, and it was all bleeding and hurt. I asked, "Who did this to this child?"
 
-I heard a voice, a voice I knew belong to God. "He did it to himself, Shantnu. Do you not recognise himH he's your own inner self. You did that him. You did it to yourself in your madness."
+I heard a voice, a voice I knew belong to God. "He did it to himself, Shantnu. Do you not recognise him? He's your own inner self. You did that him. You did it to yourself in your madness."
 
 At this point, I started crying. Like, tears started flowing and I started sobbing like a child. 
 
