@@ -219,18 +219,32 @@ I debated putting this last section here, as I don't want to look like I'm boast
 But the Teacher asked me to put it in here, reminding me that false humility is also a weapon of the ego. So here goes:
 
 I had been thinking about these thoughts in meditation, full of anger and hate about something. I was having thoughts of self disgust- *Im so weak, how will I ever become englightened etc*.
+
 That is when I got this vision.
+
 I was in a place with a bright light, and on the floor was a little baby, very ugly like a demon child, and it was all bleeding and hurt. I asked, "Who did this to this child?"
+
 I heard a voice, a voice I knew belong to God. "He did it to himself, Shantnu. Do you not recognise himH he's your own inner self. You did that him. You did it to yourself in your madness."
+
 At this point, I started crying. Like, tears started flowing and I started sobbing like a child. 
+
 The voice spoke again. "Look around. There are millions of other children suffering too."
+
 I saw there were millions of other children around me- all stuck in bubbles, all bleeding from injuries they had caused themselves. Each baby was alone.
+
 I saw the bright white light was healing me- but that most of the other babies were blocking it off by the bubbles they were creating.
+
 "Why don't you help them?" I asked.
+
 "I DO. I speak to all of them, like I'm speaking to YOU. But they don't hear me. They CAN'T hear me, though I try. I keep talking to them, to let them open, so MY LIGHT can heal them."
+
 "What can I do to help them?" I asked.
+
 "You can't. At least, not now, not in your current state. The best thing you can do is: Heal YOURSELF first. And then, you will be able to carry MY VOICE to them. That is the only way to heal them- to make them realise they are not alone, that they are surrounded by love, by the Light."
+
 And that is the final lesson I want to give you: If you want to help save the world, help ease the suffering of the world, HEAL YOURSELF first. Let the Light heal you. In my vision, I had to do nothing. As soon as I opened up, the Light healed me by itself, without me having to do anything. 
+
 And that is the **hard** lesson we can't / won't accept. There is so little for us to do except open up. Just stay still, the Light knows what to do, how to Heal us.
+
 And once YOU are healed, you can start to heal your fellow brothers and sisters. Show them the Light, show them that they need do nothing, that the Divine is willing to do everything for them, *if only You will let Him*.
 
