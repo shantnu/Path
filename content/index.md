@@ -84,3 +84,7 @@ As a mini followup, read how the Course helped me with my job hunting. [A Medita
 ---
 
 Most hippie spiritual types want to "save the world, lah-di-dah". But the Teacher says, [It is better to be the best version of yourself before trying to help others](/divine-prefer-you-be-best)
+
+---
+
+[On Healing the Pain of Living](/heal-pain-living) Why People Struggle with Life and Spirituality, and how the ego tricks us into accepting mediocrity
