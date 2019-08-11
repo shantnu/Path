@@ -1,3 +1,7 @@
+---
+title: "On Healing the Pain of Living"
+---
+
 # On Healing the Pain of Living
 
 ## Or Why People Struggle with Life and Spirituality
