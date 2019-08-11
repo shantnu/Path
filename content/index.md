@@ -9,6 +9,7 @@ title: The Path to Joy
 **Articles**
 
 
+**Start** by reading the *Gift of Suffering* and *Inner war and Peace*, as they summarise my philosophy.
 
 [*The Gift of Suffering*](/Gift-of-suffering) 
 
@@ -41,6 +42,7 @@ tldr: Fuckin' breathe
 
 ---
 
+### Money and Wealth series: 
 
 [Is It Possible To Be Rich, Enjoy The Material Life, And Still Be Spiritual?](money-spiritual-life)
 
@@ -51,6 +53,9 @@ Spiritual types think money is evil, it's all about the *Luuhhvvvvvv*. But this 
 
 
 [Money is Sooooo Evvvilllllll: Or, Why Spiritual Types Struggle with Money](/money-so-evil) - A follow up to the above, for the people still convinced moneys is *Evilllllllzzzzz*. 
+
+
+The Third post in this series:  [How to Really Manifest Abundance, and Live the Life You Were Meant to](/manifest-abundance)
 
 ---
 
