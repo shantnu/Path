@@ -1,10 +1,10 @@
 ---
-title: What to do when you are feeling shit, nothing makes sense and all seems hopeless
+title: Dealing with Panic / Anxiety attacks
 ---
 
-# What to do when you are feeling shit, nothing makes sense and all seems hopeless
+# Dealing with Panic / Anxiety attacks
 
-## You can't avoid Pain, you can avoid Suffering
+## Simple Breathing Techniques to Breathe Thru the Fear
 
 
 It was happening to me this morning.
