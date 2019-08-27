@@ -44,6 +44,17 @@ That's why words like the Spirit, the Unknown, Being, Universal Intelligence, ar
 
 The problem is, anytime you use the G word, people will form their own mental images of what you are talking about. And the Divine cannot be understood by the mind, since it is far beyond the thinking mind.
 
+## The God that most people worship...
+
+... is actually their ego.
+
+The ego is vengeful and demonic, always willing to attack others, to show them their place, to kill anyone who disagrees with it.
+
+The ego is the devil, but most religions have elevated it to God.
+
+The ego creates a God just like itself, and worships it. And that is why it hates the real God, for it knows it is wrong, and fears retribution. 
+
+
 ## So what is God again?
 
 God is the underlying Spirit, the Divine presence in all of us, the fabric of the universe.
