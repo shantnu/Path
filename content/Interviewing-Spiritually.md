@@ -30,7 +30,7 @@ It was at this stage that I saw this inspiring line from the Course:
 
  
 
-*I am a Teacher of Light. I do not have to worry about what to say or do, because he who sent me will guide me. I will be healed, even as I teach others to heal.*
+*I am a Teacher of Light. I am only here to be truly helpful. I do not have to worry about what to say or do, because he who sent me will guide me. I will be healed, even as I teach others to heal.*
 
  
 
@@ -40,7 +40,15 @@ Specially this part: *I do not have to worry about what to say or do, because he
 
  If you don't believe in God, replace *he* with the Inner Teacher, Higher Self, Buddha Nature or the Universal Intelligence.
 
+There are 2 parts to this:
 
+*I am only here to be truly helpful.*
+
+You only want the job if you can be helpful. You don't want a job where you are not 100% useful. This might be hard if you are unemployed or in a job you hate, but you need this attitude. You are doing God's work, you must do it with love and dedication.
+
+*I do not have to worry about what to say or do, because he who sent me will guide me.*
+
+If this job would be perfect for you, the Universe will speak through you. You don't need to think about what you will say, but trust that the Spirit will say the right things, through you.
 
 This became my mantra before every interview. Earlier, I was always tense, stressful and angry. I took the usual idiotic advice given by recruiters: Act interested in the company, ask them leading questions etc. But this only made me sound desperate (at least to myself). *Please sirrr, gimme job sirrr, I'll do anything, clean your car, wash your clothes, sirrr*.
 
@@ -56,7 +64,8 @@ Then, when I reached the company, I would turn off the car, but keep sitting in 
 
 Then repeat the saying again at least 3 times:
 
-*I do not have to worry about what to say or do, because he who sent me will guide me.*
+*I am only here to be truly helpful. I do not have to worry about what to say or do, because he who sent me will guide me.*
+
 
 Then I would go to the interview smiling. I refused to think at all about all the disaster scenarios if I didn't get the job. Instead, if I got any worrying thought, I would replace it with *My Higher Self will guide me if that occurs.*
 
