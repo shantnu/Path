@@ -69,6 +69,8 @@ Question from reader: *I have been meditating for years, and yet I feel imperfec
 
 The Teacher replies: [You may have misunderstood what meditation is all about](/forgive-yourself)
 
+Related: [I have been meditating for months / years, yet still feel as miserable as a wet sponge](/meditating-still-not-happy)
+
 ----
 
 
