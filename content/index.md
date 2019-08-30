@@ -36,6 +36,10 @@ The reason, as I so eloquently describe, is because [God hates you. Sorry, but i
 
 ---
 
+Spiritual Astrology - In which I argue the [ Goal of Astroloy is to Guide us Spiritually, Not Make Silly Predictions](/astrology)
+
+---
+
 What do you do when having a strong panic / anxiety attack, and [nothing seems to work?](/what-to-do-when-life-seems-hopeless)
 
 tldr: Fuckin' breathe
