@@ -197,7 +197,7 @@ Rahu and Ketu are the eclipse points. Rahu eclipses the moon, while Ketu eclipse
 
 What is the moon? The mind. Rahu is the planet that takes over the mind and corrupts it.
 
-The moon is the soul, the spirit. And Ketu covers it with darkness.
+The sun is the soul, the spirit. And Ketu covers it with darkness.
 
 You can now see why the planets are considered so evil.
 
@@ -207,7 +207,7 @@ Rahu wants satisfaction- food, sex, wine, more more more! He drives people into 
 
 But because Rahu has no body, he can never be satisfied. The more Rahu wants, the more dissatisfied he feels.
 
-Rahu is the planet of global madness. I have written before how the ego is insane, and does stupid things [LINK]. Well, Rahu IS the planet of insanity. Look at the stock market. People throw billions into bubbles, and then lose it all.
+Rahu is the planet of global madness. I have written before how the ego is insane, and [does stupid things](/hidden-message-gita-dark-night-soul). Well, Rahu IS the planet of insanity. Look at the stock market. People throw billions into bubbles, and then lose it all.
 
 Rahu rules social media as well. Look at all the madness, people attacking each other, sending death threats to kids/women/people who vote differently. Peoples lives have been ruined by what they said on social media.
 
