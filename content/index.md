@@ -36,7 +36,7 @@ The reason, as I so eloquently describe, is because [God hates you. Sorry, but i
 
 ---
 
-Spiritual Astrology - In which I argue the [ Goal of Astroloy is to Guide us Spiritually, Not Make Silly Predictions](/astrology)
+Spiritual Astrology - In which I argue the [ Goal of Astrology is to Guide us Spiritually, Not Make Silly Predictions](/astrology)
 
 ---
 
