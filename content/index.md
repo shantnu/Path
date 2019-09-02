@@ -9,7 +9,7 @@ title: The Path to Joy
 **Articles**
 
 
-**Start** by reading the *Gift of Suffering* and *Inner war and Peace*, as they summarise my philosophy.
+*If you are new, Start* by reading the *Gift of Suffering* and *Inner war and Peace*.
 
 [*The Gift of Suffering*](/Gift-of-suffering) 
 
