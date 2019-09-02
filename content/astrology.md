@@ -1,5 +1,5 @@
 ---
-title: Spiritual Astrology: The Goal of Astrology is to Guide us Spiritually, Not Make Silly Predictions
+title: "Spiritual Astrology: The Goal of Astrology is to Guide us Spiritually, Not Make Silly Predictions"
 ---
 
 # Spiritual Astrology
