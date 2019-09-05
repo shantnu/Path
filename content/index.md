@@ -40,6 +40,14 @@ Spiritual Astrology - In which I argue the [ Goal of Astrology is to Guide us Sp
 
 ---
 
+One of the easiest way to achieve spiritual growth is also one of the hardest: Opening up to the Divine Mother and letting her owrk through you.
+
+[The Divine Mother: She Who Gives Both Material and Spiritual Wealth](/mother)
+
+
+---
+
+
 What do you do when having a strong panic / anxiety attack, and [nothing seems to work?](/what-to-do-when-life-seems-hopeless)
 
 tldr: Fuckin' breathe
