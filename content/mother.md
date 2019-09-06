@@ -29,9 +29,18 @@ Goddess worship has become fashionable again, thanks to feminism. But this leads
 
 Or worse: The goddess is just the female version of God. So just like the God of the bible, but a chick instead of a dude. With boobs instead of a hairy chest, but otherwise, no different.
 
-## The Divine Mother Energy
+## The Goddess Keeps it Real, she's in the Hood
 
-This is my own experience, I can't really quote "scriptures" or anything.
+God, or the Shiva/male energy, is far off and perfect. To him, we too are perfect, and he can't "see" our problems. From the point of view of perfection, we are all free and enlightened already. Many Zen/Advaita teachers teach this: There is nothing to do, no where to go.  We are all Beings of Light and Bliss.
+
+But then your fucking rent is due, and the landlord won't accept Light or Bliss. Your car breaks down, and those bastards at AA want cash, not Peace. 
+
+Shiva exists in perfect Oneness, but the Mother exists in duality. She knows our problems, knows that the fucking rent is more important than sitting an hour a day in meditation, as otherwise you'll be meditating outside in the rain. And hence the title of this article- the mother promises spiritual growth, but she'll also ensure you can pay your rent. 
+
+In business speak, this is the "killer feature" of Goddess worship, in that she allows you to live a well off and comfy life, while she helps you with Awakening. Which makes me wonder why the Mother isn't more popular than the life denying *run to the forest cause the world is toooo cruel* type religions.
+
+
+## The Divine Mother Energy
 
 
 Goddesses with form like Kali or Durga are very popular, and there is a whole set of rituals in Tantra to make them appear before you, that supposedly  take 10 lifetimes.
