@@ -35,10 +35,11 @@ God, or the Shiva/male energy, is far off and perfect. To him, we too are perfec
 
 But then your fucking rent is due, and the landlord won't accept Light or Bliss. Your car breaks down, and those bastards at AA want cash, not Peace. 
 
-Shiva exists in perfect Oneness, but the Mother exists in duality. She knows our problems, knows that the fucking rent is more important than sitting an hour a day in meditation, as otherwise you'll be meditating outside in the rain. And hence the title of this article- the mother promises spiritual growth, but she'll also ensure you can pay your rent. 
+Shiva exists in perfect Oneness, but the Mother exists in duality. She knows our problems, knows that the rent is more important than sitting an hour a day in meditation, as otherwise we'll be meditating outside in the rain. And hence the title of this article- the mother promises spiritual growth, but she'll also ensure you can pay your rent. 
 
-In business speak, this is the "killer feature" of Goddess worship, in that she allows you to live a well off and comfy life, while she helps you with Awakening. Which makes me wonder why the Mother isn't more popular than the life denying *run to the forest cause the world is toooo cruel* type religions.
+In business speak, this is the **killer feature** of Goddess worship, in that she allows you to live a well off and comfy life, while she helps you with Awakening. Which makes me wonder why the Mother isn't more popular than the life denying *run to the forest cause the world is toooo cruel* type religions.
 
+Must be poor marketing. This article is an attempt to fix that.
 
 ## The Divine Mother Energy
 
