@@ -2,7 +2,7 @@
 title: "The Monkey Inside Us, Who is Both Our Biggest Enemy and Friend"
 ---
 
-# The Monkey Inside Us, Who is Both Our Biggest Enemy and Friend
+# The Monkey Inside Us, The Biggest Enemy to our Spiritual Growth (but also our Secret Friend)
 
 **tldr**: The monkey inside of us, is the biggest enemy we have to spiritual progress. He is also our BIGGEST friend. We can't achieve awakening without the monkey 's help.
 
