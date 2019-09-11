@@ -32,11 +32,11 @@ I was reading this great book by Loretta Breuning, The Inner Mammal. She says th
 
 If a chimp saw a banana on the floor, he just couldnt pick it up. He needed to check if there was a stronger chimp who was hungry. Only if there was no one stronger and hungry would he reach for the banana. The same with sex.
 
-And so our chimp had to be very careful. Living in a group meant he was safe from predators like lions and other chimps, but it also meant he could be attacked and killed by his own kind. And so our chimp had to be hyper alert for all enemies- within and without.
+And so our chimp had to be very careful. Living in a group meant he was safe from predators like lions, but it also meant he could be attacked and killed by his own kind. And so our chimp had to be hyper alert for all enemies- within and without.
 
 He not only had to look out for lions, but the alpha male being in a cranky mood. This hyper awareness was the only way to survive.
 
-Of course, you might think you were safe if you were born bi and strong, but no. Other chimps could gang up on you and kill you. Even alpha males need allies.
+Of course, you might think you were safe if you were born big and strong, but no. Other chimps could gang up on you and kill you. Even alpha males need allies.
 
 Also, there is a reason the alpha male got all the females- when the predators attacked, it  was the alpha who had to fight it, or at least delay it while the women and children got to safety. Alpha males in animals are not like the pickup artists of today, they didn't get the females by using lots of hair gel and cheesy pickup lines.
 
@@ -64,13 +64,13 @@ You might these examples funny, but to the chimp, they are a life or death matte
 
 And that is why we feel so stressed. Something that worked even as far as 20,000 years ago (remember the chimp family is millions of years old) no longer works. 
 
-That is why we can't control our emotions or thoughts. Society might say: Be a good boy, and ignore that person who insulted you on the street. All the while, the inner monkey is screaming *Im under attack!I will DIE! Need to act*
+That is why we can't control our emotions or thoughts. Society might say: Be a good boy, and ignore that person who insulted you on the street. All the while, the inner monkey is screaming *Im under attack! I will DIE! Need to act. Ooh ooh ooh!*
 
 And so we learn to suppress our emotions. Nothing wrong with that. People who don't learn to control their emotions end up dead, in jail, or as outcasts.
 
-And so, we are in constant war with ourselves.
+But it does mean we are in constant war with ourselves.
 
-## And so we see the beast
+## And so we see the monkey
 
 We can now see where the beast comes from:
 
@@ -92,6 +92,8 @@ People who claim to be rational are usually slaves to some idiotic philosophy, l
 In these cases, the inner monkey joins hands with the rational mind, and they let the monkey go wild, attacking people as it wants, all the while pretending to be "rational". Beware the mind pretending to be "rational" and "enlightened", for usually it's a traitor who has done a secret deal with the monkey.
 
 The best the rational mind can do is hold the monkey at bay using self discipline. But the monkey is cunning, he waits till we are tired, cranky, hungry, stressed, and attacks us. And usually this angry monkey causes us a lot of harm, damaging our relationships and our mental health.
+
+The rational mind **is useful**, but only if it is aligned with our deeper, spiritual self. We have to be very careful when we think we are acting rationally, the *It's for your own good* thinking, because it is entirely possible it is the monkey trying to act all magnanimous. 
 
 
 ## So the monkey is unbeatable? \*
@@ -142,7 +144,7 @@ And yet, the monkey perseveres.
 
 Because as we continue, something from the dark, something from deep within the subconscious, awakens. It slowly starts taking control of our life, our mind, our being.
 
-The monkey hates this son-of-a-bitch trying to take over its life, at least in the beginning, but soon starts to trust it. Because this Deep Self hints at what the monkey has never felt: True Peace.
+The monkey hates this son-of-a-bitch trying to take over its life, at least in the beginning, and will fight it tooth and nail; but soon he starts to trust it. Because this Deep Self hints at what the monkey has never felt: True Peace.
 
 Through the grim darkness, a light shines, sort of a lightening thunder that is gone in seconds; but in those few seconds, it shows us the ground for miles around. It shows us where we have been wrong, and what the Correct Path for us is.
 
