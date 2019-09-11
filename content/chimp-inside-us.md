@@ -4,7 +4,7 @@ title: "The Monkey Inside Us, Who is Both Our Biggest Enemy and Friend"
 
 # The Monkey Inside Us, The Biggest Enemy to our Spiritual Growth (but also our Secret Friend)
 
-**tldr**: The monkey inside of us, is the biggest enemy we have to meditation and spiritual progress. He is also our BIGGEST friend. We can't achieve awakening without the monkey 's help.
+**tldr**: The monkey inside of us, is the biggest enemy we have to meditation and spiritual progress. He is also our BIGGEST friend. The monkey is the one responsible for our problems, but he is also the one who gets frustrated with himself and tries to find peace in meditation, religion and spirituality. Ultimately, we have to work with the monkey.
 
 ## Meet The Monkey
 
