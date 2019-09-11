@@ -9,7 +9,7 @@ title: The Path to Joy
 **Articles**
 
 
-*If you are new, Start* by reading the *Gift of Suffering* and *Inner war and Peace*.
+
 
 [*The Gift of Suffering*](/Gift-of-suffering) 
 
@@ -18,6 +18,7 @@ We normally try to avoid suffering, pain, humiliation and feeling low, so much s
 BUT
 
 Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](/Gift-of-suffering)
+
 
 ---
 
@@ -28,6 +29,15 @@ Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](
 The Dirty G Word - In which I use a word fo filty, so dirty, that half of you will leave in disgust. [Click at your own risk](/dirty-g-word)
 
 ---
+
+
+
+[The Monkey Inside Us, Who is Both Our Biggest Enemy and Friend](/chimp-inside-us)
+
+ The monkey inside of us, is the biggest enemy we have to spiritual progress. He is also our BIGGEST friend. We can't achieve awakening without the monkey 's help.
+
+---
+
 [Why the F%^& doesn't God/Goddess/Spongebob Squarepants answer my prayers?](/why-the-f-doesnt-god-answer-prayers)
 
 You sit there praying to a God who seems absent or just doesn't care. And you wonder, God, dude, what the fuck is going on? All I asked for was a cheese sandwich, **why won't you listen to my prayers and give me the goddamn cheese sandwich**?
