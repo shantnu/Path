@@ -89,7 +89,7 @@ We can now see where the beast comes from:
 
 Seeing how strong the monkey is, it is amazing *anyone* does any spiritual things at all.
 
-In the beginning, I said the monkey is our best friend. Hoe can that be?
+In the beginning, I said the monkey is our best friend. How can that be?
 
 Because as humans start using the rational mind more, and more importantly, start meditating, even if for only 5 minutes a day, they start seeing their own madness.
 
