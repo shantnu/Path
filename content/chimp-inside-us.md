@@ -1,8 +1,8 @@
 ---
-title: "The Monkey Inside Us, Who is Both Our Biggest Enemy and Friend"
+title: "Why Meditation is so Hard"
 ---
 
-# The Monkey Inside Us, The Biggest Enemy to our Spiritual Growth (but also our Secret Friend)
+# Why is Meditation so Hard? Because of the Monkey Inside us (but he is also our biggest ally)
 
 **tldr**: The monkey inside of us, is the biggest enemy we have to meditation and spiritual progress. He is also our BIGGEST friend. The monkey is the one responsible for our problems, but he is also the one who gets frustrated with himself and tries to find peace in meditation, religion and spirituality. Ultimately, we have to work with the monkey.
 
@@ -107,7 +107,7 @@ It is the monkey who meditates; it is the monkey who prays to a god to help it. 
 
 Of course, the monkey has problems. The monkey gets irritated and frustrated with the time it takes in meditation. It often gives up spirituality in anger, but always returns (under the gentle guidance of the Deeper Self).
 
-Many of the problems with spiritual materialism, like people hopping from teaching to teaching, guru to guru, or running after fads (chakra opening using crystals powered by angelic reiki!) are caused by the impatient monkey. But we can see now it is unfair to judge the monkey. It is being driven by millions of years of programming, programming **that has worked so far**.
+Many of the problems with spiritual materialism, like people hopping from teaching to teaching, guru to guru, or running after fads (*chakra opening using crystals powered by angelic reiki!*) are caused by the impatient monkey. But we can see now it is unfair to judge the monkey. It is being driven by millions of years of programming, programming **that has worked so far**.
 
 And so the part  of us that wants peace, that wants nirvana/heaven is usually the monkey. It realises after some time that it has been wrong all this time, and wants to escape this cycle of constant fear of attack, constant vigilance against invisible enemies. The monkey meditates because he is tired and just wants peace.
 
