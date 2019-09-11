@@ -81,21 +81,6 @@ We can now see where the beast comes from:
 * He is stronger than us, and can crush us. Look at overeating- we know its bad for us, but the monkey says *eat-eat-eat*, and we jump up and say *High ho, sir!*
 
 
-###  A note on "rational" people
-
-Many people claim to be "rational". They say we have conquered our wild self using science and logic. I would quote Keynes:
-
-*Practical men who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist.*
-
-People who claim to be rational are usually slaves to some idiotic philosophy, like nazism or marxism. Hitler/Stalin/Mao murdered millions of people, and it was all for logical reasons! *We have to save the country / society old chap, can't you see it's for your own good?*
-
-In these cases, the inner monkey joins hands with the rational mind, and they let the monkey go wild, attacking people as it wants, all the while pretending to be "rational". Beware the mind pretending to be "rational" and "enlightened", for usually it's a traitor who has done a secret deal with the monkey.
-
-The best the rational mind can do is hold the monkey at bay using self discipline. But the monkey is cunning, he waits till we are tired, cranky, hungry, stressed, and attacks us. And usually this angry monkey causes us a lot of harm, damaging our relationships and our mental health.
-
-The rational mind **is useful**, but only if it is aligned with our deeper, spiritual self. We have to be very careful when we think we are acting rationally, the *It's for your own good* thinking, because it is entirely possible it is the monkey trying to act all magnanimous. 
-
-
 ## So the monkey is unbeatable? \*
 
 \* pun intended  
