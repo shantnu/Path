@@ -32,7 +32,7 @@ The Dirty G Word - In which I use a word fo filty, so dirty, that half of you wi
 
 
 
-[The Monkey Inside Us, Who is Both Our Biggest Enemy and Friend](/chimp-inside-us)
+[Why is Meditation so Hard? Because of the Monkey Inside us](/chimp-inside-us)
 
  The monkey inside of us, is the biggest enemy we have to spiritual progress. He is also our BIGGEST friend. We can't achieve awakening without the monkey 's help.
 
