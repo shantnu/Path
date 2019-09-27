@@ -35,6 +35,14 @@ The Dirty G Word - In which I use a word fo filty, so dirty, that half of you wi
 [Why is Meditation so Hard? Because of the Monkey Inside us](/chimp-inside-us)
 
  The monkey inside of us, is the biggest enemy we have to spiritual progress. He is also our BIGGEST friend. We can't achieve awakening without the monkey 's help.
+ 
+ [Why is Meditation Hard, Part 2, Or What Stars Wars Taught me About Meditation](/meditation-star-wars)  Because **everyone** should learn meditation from Star Wars!!
+
+---
+
+[Choose Your Own Hero's Journey, Live a Life Full of Meaning](/heros-journey)
+
+Be the Hero of Your Own Story: Don’t READ the Hero’s Journey, LIVE Your own Hero(ine)’s Journey
 
 ---
 
