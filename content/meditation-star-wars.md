@@ -79,37 +79,7 @@ And so the ego tries to trick you:
 
 
 
-Many people give up. I gave up writing this blog.
-
-
-
-## Why I Felt like a Fraud writing this blog
-
-
-
-At one point, I gave up writing on this site. For almost a year, I didn't write a word.
-
-
-
-The reason was, I felt like a fraud. Here I was giving advice to others, when my own life was so shit.
-
-
-
-And so I said fuck it, and quit. I didn't take the blog down, as it wasn't costing me anything.
-
-
-
-Until a month ago(*July/Aug 2019, for future reference*).
-
-
-
-I was feeling miserable, life was going to shit, everything seemed hopeless, when out of boredom, I opened this site and read the [Gift of Suffering](/gift-of-suffering/). And I was like, wow, this makes sense. And it explains my current problems.
-
-
-
-
-And so I decided to continue writing articles here; even if no one reads them, my future self will find them useful.
-
+Many people give up. I have given up too. Giving up is ok, because your inner self will not let you quit that easy; it will always bring you back, gently and slowly.
 
 
 ## The Battle Between Passions and Peace
