@@ -6,21 +6,7 @@ title: "Spiritual Astrology: The Goal of Astrology is to Guide us Spiritually, N
 
 ## The Goal of Astroloy is to Guide us Spiritually, Not Make Silly Predictions
 
-Let me preface this by saying: Astrology is a joke, a bullshit lie spread by con artists to prey on the helpless. I say this as someone who trained in and practiced astrology for a long time.
-
-Most astrology is full of guesses, [Cold Reading](https://en.wikipedia.org/wiki/Cold_reading) and [Barnum Statements](https://en.wikipedia.org/wiki/Barnum_effect) . 
-
-Things like *You work very hard, but no one appreciates you*. *You love everyone, but people don't love you back*. Everyone fucking believes they are a hard working Jesus who no one loves back.
-
-Want me to get more specific? I'll make a prediction about you *right now*: When you were a child, you hurt your knee or head very badly, so much so you might have needed a doctor.
-
-Wow, I'm psychic. 
-
-NOT. 
-
-70-90% of children hurt their knee or head. It's simple physics. Kids like to fuckin' run around, and they fall a lot. The way the human body works is, you'll land on your head, knees or elbows. Elbows injuries mean you could use your hands to protect your fall, and so are not that serious. Head or knee injuries are more serious and need doctors, and you are more likely to remember them. 
-
-But tell people bullshit like *I can see a disturbance in your aura* or *Your Saturn is heavy, it will attack your knees* and they will be SOOOOOOO impressed. Because Saturn has nothing better to do than fucking with your knees. */end sarcasm mode*
+Let me preface this by saying: Astrology(at least for predicting the future) is a joke. I say this as someone who trained in and practiced astrology for a long time.
 
 The reason Im so negative about astrology is that, at least in India where I come from, it has become a weapon to scare people and extort money out of them.  Also, maybe it's a cultural  thing, but Indian astrologers are trained to focus on the negative. There might be a 100 good things in your chart, but they will take the one negative and spend 45 minutes talking about it. 
 
