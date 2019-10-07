@@ -4,7 +4,7 @@ title: "Spiritual Astrology: The Goal of Astrology is to Guide us Spiritually, N
 
 # Spiritual Astrology
 
-## The Goal of Astroloy is to Guide us Spiritually, Not Make Silly Predictions
+## The Goal of Astrology is to Guide us Spiritually, Not Make Silly Predictions
 
 Let me preface this by saying: Astrology(at least for predicting the future) is a joke. I say this as someone who trained in and practiced astrology for a long time.
 
