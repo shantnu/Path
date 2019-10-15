@@ -424,3 +424,6 @@ To summarise what I've been saying:
 
 * Your final goal will be, to say on your death bed, **I have no regrets, MY LIFE WAS FUCKIN' AWESOME**
 
+## But this article is incomplete....
+
+I need to talk about living a spiritual life, a Divine Life; the best way to find your life's purpose is to live in the Light of the Divine and let it guide your path. We need to return to this topic.......
