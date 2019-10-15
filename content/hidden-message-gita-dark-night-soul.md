@@ -22,7 +22,7 @@ The Mahabharat was a total war, a sort of a world war of the time. Kings from as
 
 
 
-I was sitting in a park, feeling very anxious and depressed, worried that life was too damn hard, that I should just fucking give up, when I realised it- I was like Arjun. I had thrown down my weapons in the fight of life, and given in to the forces of darkness. The following came to me as I sat to meditate. In a public park, with ducks and swans and little kids running around me, I realised the truth of the Gita.
+I was sitting in a park, feeling very anxious and depressed, worried that life was too damn hard, that I should just fucking give up, when I realised it- I was like Arjun. I had thrown down my weapons in the fight of life, and given in to the forces of darkness. This is the answer I got:
 
 
 
