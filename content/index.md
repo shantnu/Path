@@ -119,6 +119,11 @@ Most hippie spiritual types want to "save the world, lah-di-dah". But the Teache
 
 ---
 
+[Karma isn’t Your Headmaster, and God isn’t Harry Potter](/what-is-karma) In which I talk about what karma is, escaping the circle of karma, and Harry Potter. [Obviously , Harry Potter has the answers](/what-is-karma)
+
+---
+
+
 [Choose Your Own Hero's Journey, Live a Life Full of Meaning](/heros-journey)
 
 Be the Hero of Your Own Story: Don’t READ the Hero’s Journey, LIVE Your own Hero(ine)’s Journey
