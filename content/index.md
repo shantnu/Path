@@ -24,6 +24,8 @@ Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](
 
 [Inner War and Peace: The War in Our Minds and Dark Night of the Soul](/hidden-message-gita-dark-night-soul) : A war that started thousands of years ago is still going on..... in our minds. In this essay I talk about a dangerous enemy that stops most meditators in their paths, and can even kill you if you are not careful...
 
+[Inner War Part 2: The Hidden Enemy Few People Know About](/inner-war-2) 
+
 ---
 
 The Dirty G Word - In which I use a word fo filty, so dirty, that half of you will leave in disgust. [Click at your own risk](/dirty-g-word)
