@@ -24,11 +24,21 @@ Is happiness really good for us? Or do we need a [itsy bitsy little suffering?](
 
 [Inner War and Peace: The War in Our Minds and Dark Night of the Soul](/hidden-message-gita-dark-night-soul) : A war that started thousands of years ago is still going on..... in our minds. In this essay I talk about a dangerous enemy that stops most meditators in their paths, and can even kill you if you are not careful...
 
-[Inner War Part 2: The Hidden Enemy Few People Know About](/inner-war-2) 
+[Inner War Part 2: The Hidden Enemy Few People Know About](/inner-war-2) This enemy destroys many meditators, all the while hiding in the shadows....
+
+[Inner War 3: Watching the Watcher- or Why the Mind Hates it When You Try to Meditate](/iw3-watching-watcher)  The Mind Fears ONE things above everything else- when you start watching *it*. And that's why it fights you
+
+[Inner War 4: Just because you have a spiritual experience doesn’t mean the ego gives up](/iw4) We often think that just because we've had a few spiritual experiences, we have "arrived". But the ego doesn't give up so easily and puts up a big fight, leading to what many call the *Dark Night of the Soul*
 
 ---
 
 The Dirty G Word - In which I use a word fo filty, so dirty, that half of you will leave in disgust. [Click at your own risk](/dirty-g-word)
+
+
+[Karma isn’t Your Headmaster, and God isn’t Harry Potter](/what-is-karma) In which I talk about what karma is, escaping the circle of karma, and Harry Potter. [Obviously , Harry Potter has the answers](/what-is-karma)
+
+
+[God / Divine / Universe  Doesn't use Beatings To Teach You About Love!](/god-uses-love-teach) I don't know we believe the Universe or God is out to get us, that we will be punished for our sins / karma, or other such crap. As I argue, the Divine using fear to teach us about love would be like toruturing someone to teach them about the evils of torture! It sounds so stupid, and yet the ego belives this......
 
 ---
 
@@ -119,9 +129,7 @@ Most hippie spiritual types want to "save the world, lah-di-dah". But the Teache
 
 [On Healing the Pain of Living](/heal-pain-living) Why People Struggle with Life and Spirituality, and how the ego tricks us into accepting mediocrity
 
----
 
-[Karma isn’t Your Headmaster, and God isn’t Harry Potter](/what-is-karma) In which I talk about what karma is, escaping the circle of karma, and Harry Potter. [Obviously , Harry Potter has the answers](/what-is-karma)
 
 ---
 
