@@ -1,8 +1,8 @@
 ---
-title: "God Doesn't use Beatings To Teach You About Love"
+title: "God / Divine / Universe Doesn't use Beatings To Teach You About Love"
 ---
 
-# God Doesn't use Beatings To Teach You About Love!
+# God / Divine / Universe  Doesn't use Beatings To Teach You About Love!
 
 ## The Hardest thing for me to understand 
 
