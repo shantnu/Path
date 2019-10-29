@@ -82,16 +82,7 @@ Or: *How suffering is the best gift the Universe gives to us*
 
  
 
-*Teacher:* Yes, God. What most people worship as God is a mental projection of their own sick mind. This God is angry, hateful and vengeful. You have had an experience of the divine, S. Did you find the experience angry or hateful?
-
- 
-
-*Me:* No. if anything, it was very peaceful and joyful. No divisions, no hate, just oneness with Love and Being. But it didn’t last.
-
- 
-
-*Teacher:* That is a story for another day. 
-
+*Teacher:* Yes, God. What most people worship as God is a mental projection of their own sick mind. This God is angry, hateful and vengeful. 
  
 
 People have invented all sort of things to run away from misery. They hate their pain, and would do anything to avoid it. If the pain goes away, they thank some imaginary God. If it doesn’t, they scream at God, and pretend to be atheists. Am I on the right track, S?
