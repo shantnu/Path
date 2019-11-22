@@ -103,11 +103,17 @@ The Third post in this series:  [How to Really Manifest Abundance, and Live the 
 
 ---
 
+### Meditation and Happiness Series
+
+
 Question from reader: *I have been meditating for years, and yet I feel imperfect. I get angry, irritated etc. What do I do? Is my meditation not working?*
 
 The Teacher replies: [You may have misunderstood what meditation is all about](/forgive-yourself)
 
 Related: [I have been meditating for months / years, yet still feel as miserable as a wet sponge](/meditating-still-not-happy)
+
+
+**Meditator General's Warning**: Meditation can be *Harmful* to Your Health and Happiness : [OR Most of what you know about Meditation comes from Marketing ](/medi-harmful-health)
 
 ----
 
