@@ -143,3 +143,9 @@ Most hippie spiritual types want to "save the world, lah-di-dah". But the Teache
 [Choose Your Own Hero's Journey, Live a Life Full of Meaning](/heros-journey)
 
 Be the Hero of Your Own Story: Don’t READ the Hero’s Journey, LIVE Your own Hero(ine)’s Journey
+
+---
+
+[Dear God Your world sucks, I want a refund](/world-sucks-refund) Like a drug, the world gives you short term pleasure, but long term pain. And though you hate the material world, you keep going back to it like a junkie. Until it finally kills you. So fuck you, God, your world sucks. I want a refund. 
+
+[To which the Universe replies: (click here to read more)](/world-sucks-refund)
