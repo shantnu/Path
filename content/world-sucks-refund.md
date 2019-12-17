@@ -10,7 +10,7 @@ The world seems like a poison. Any touch with it hurts us.
 
 Food makes you fat, gives you diabetes or IBS. Worst case, all 3 *at the same time* 😊  
 
-Relationsips make you miserable, but you can't escape them.
+Relationships make you miserable, but you can't escape them.
 
 
 And that is the problem with the world.  Any touch with it makes you unhappy.  It hurts you, pains you. 
