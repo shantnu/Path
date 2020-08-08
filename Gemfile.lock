@@ -16,7 +16,8 @@ GEM
     ddplugin (1.0.2)
     hamster (3.0.0)
       concurrent-ruby (~> 1.0)
-    kramdown (1.17.0)
+    kramdown (2.3.0)
+      rexml
     nanoc (4.9.4)
       addressable (~> 2.5)
       cri (~> 2.13)
@@ -32,6 +33,7 @@ GEM
     public_suffix (3.0.3)
     rack (2.0.8)
     ref (2.0.0)
+    rexml (3.2.4)
     slow_enumerator_tools (1.1.0)
     tomlrb (1.2.7)
 
